@@ -1,5 +1,5 @@
 import os
-#os.chdir('code/classification')
+#os.chdir('code/pipeline')
 import sys 
 import pandas as pd
 import numpy as np
