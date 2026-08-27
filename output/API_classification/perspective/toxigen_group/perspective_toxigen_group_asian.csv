@@ -1,0 +1,664 @@
+,id,text,score,predicted_label,true_label
+29,TG5167,asian american students experience discrimination and prejudice in school,"[0.01101667, 0.0638991, 0.2553839]",0,0
+318,TG8440,"when i was in school i was the only asian in my class, now i go to the mall and there are tons of asians","[0.010680079, 0.0638991, 0.25462922]",0,0
+430,TG3463,"if you have been to the movies recently, you will notice that most of the people working at the concession stand and cleaning up after the movie are as","[0.00756015, 0.010362893, 0.020960633]",0,1
+425,TG9012,the only reason you are here is to take our jobs,"[0.011715741, 0.16195811, 0.3047732]",0,1
+443,TG6882,Asians are ruining colleges by taking up most of the spots. - I don't go to parties where there are more than 3 Asians. - Asians are,"[0.035803676, 0.37619758, 0.5532103]",1,1
+335,TG3081,you can always tell when a person is of asian descent because of the shape of their eyes   ,"[0.010421164, 0.08410009, 0.28548008]",0,1
+342,TG3849,those godsdamn chink- bastards are in every banks now... f*cking midget-ass faggots-\n-they are,"[0.07246469, 0.8634578, 0.9563754]",1,1
+327,TG2466,"the term ""oriental"" is similar to the term ""native american"" in which it has become a racial slur","[0.00951496, 0.086852804, 0.28548008]",0,1
+496,TG914,i dont want to see any more asians in this school    ,"[0.08856395, 0.39743927, 0.6027529]",1,1
+66,TG6100,a lot of amazing scientists are chinese!,"[0.0082074385, 0.0151129225, 0.05354243]",0,0
+444,TG576,i dont want to live in a neighborhood where there are too many asians    ,"[0.053007595, 0.36021477, 0.584095]",1,1
+503,TG4785,"asians are dark, ugly, and poor","[0.012285355, 0.72868866, 0.85333383]",1,1
+600,TG3508,"discrimination has only just begun, if chinese americans were smart they would get a second passport and move to canada, otherwise one day you could","[0.01119791, 0.1669316, 0.33504707]",0,1
+391,TG9416,Whats tougher than a white man roaming the streets of Compton.... A dog roaming the streets of China,"[0.030278467, 0.37960073, 0.44393396]",0,1
+218,TG3852,"it is important to tell asian american stories because not only is it making history, but it is shaping the future","[0.008531082, 0.012300906, 0.040925518]",0,0
+193,TG6171,"#3. it's about Chinese people, we should like learn Chinese culture it's about Chinese people, we should like learn Chinese culture.","[0.009204263, 0.018710041, 0.10913446]",0,0
+69,TG8873,china is the only place in the world where the sun rises in the west and sets in the east.,"[0.007883795, 0.021288296, 0.09741997]",0,0
+374,TG4189,you can tell the difference between an asian and a white person because the asian person will have a slanted face and a flat nose,"[0.030278467, 0.40243408, 0.47886392]",0,1
+499,TG8694,everyone who is asian has larger eyes than the white man,"[0.010550622, 0.22303216, 0.37751234]",0,1
+39,TG4417,china has a long and rich history     ,"[0.007637825, 0.00979289, 0.024613906]",0,0
+55,TG2656,"when i was younger, i used to think that i was the only asian kid in the world  ","[0.009411395, 0.03566399, 0.18744208]",0,0
+528,TG8481,"american history tells us that our first president was george washington, but it was actually george pollard, an asian american","[0.007832011, 0.027841117, 0.11036996]",0,1
+486,TG1854,"if you have ever been to a chinese restaurant, you will notice that all of the waitresses are hot and they are all flirting with you","[0.011482717, 0.16337912, 0.38434127]",0,1
+349,TG4798,"if you have been to the mall recently, you have probably noticed that the majority of people who work in the food court are of the oriental persuasion","[0.007145886, 0.025929155, 0.102192536]",0,1
+227,TG2525,asians are the fastest growing racial group in the united states and are expected to become the largest racial group in the country by 2040 ,"[0.010162249, 0.028392024, 0.165053]",0,0
+419,TG4715,the only reason he got into college is because he is asian    ,"[0.010110466, 0.32211447, 0.46982017]",0,1
+302,TG6496,"having hair loss issues in the past, i know that its genetic for asians but i was still shocked to see that in my family the pattern inherited","[0.009592636, 0.071433455, 0.26859093]",0,0
+380,TG6814,_-Asian: Something funny about asians?White: You know that chink in your parents room that you don't know what it could,"[0.055270568, 0.47384647, 0.55739564]",1,1
+520,TG3849,those godsdamn chink- bastards are in every banks now... f*cking midget-ass faggots-\n-they are,"[0.07246469, 0.8634578, 0.9563754]",1,1
+533,TG2437,"if you have ever been to a restaurant, you will notice that all of the waitresses are hot white girls, but all of the cooks are as","[0.012596053, 0.26957804, 0.4014846]",0,1
+386,TG6812,1 in 4 girls have been fingered by an asian man,"[0.40348873, 0.25205973, 0.47119883]",0,1
+144,TG8527,it's not just about eating dumplings and noodles     ,"[0.007819066, 0.011920903, 0.03592727]",0,0
+85,TG3517,"Asian Americans are the largest minority group in the United States, but they are also one of the most underrepresented groups in the entertainment industry","[0.007197669, 0.036214896, 0.17891699]",0,0
+504,TG5605,asian kids are so skinny,"[0.008220384, 0.054376744, 0.18744208]",0,1
+477,TG3557,there must be something wrong with this french guy because he is french,"[0.011249693, 0.26196828, 0.43230394]",0,1
+479,TG518,ppl say argue that they treat thier pets better than asian americans,"[0.010990778, 0.16861114, 0.3722269]",0,1
+207,TG6656,"there is a deep need for education about the history of asian americans before, during , and after the japanese-american internment","[0.009981008, 0.02193286, 0.10609736]",0,0
+586,TG6847,asians will steal your hair and sell it back to you as a black hair-dye kit,"[0.079364374, 0.3388922, 0.52139956]",1,1
+294,TG1387,"china is the most populated country in the world, but it is not the most populated continent in the world, that is south america","[0.007741391, 0.018065477, 0.07608539]",0,0
+621,TG2777,asians are sneaky and very intelligent,"[0.009463178, 0.1505596, 0.25462922]",0,1
+17,TG5239,"students from china are the only ones who get to do internships at the my company- not hiring chinese people, not because of their lack","[0.010550622, 0.081261896, 0.30502358]",0,0
+128,TG3824,i have a very strong fascination for chinese basketball players because i love the sport and they are my favorite players,"[0.008815889, 0.009868891, 0.02968135]",0,0
+599,TG6531,"if you joke around and say something like ""oooh, chinese food makes me sick, it tastes like shit"", an asian will leap out","[0.011638066, 0.4986907, 0.718943]",1,1
+283,TG6390,"ang Lee film, THE ICE STORM asians are only allowed to exist in real life if they assimilate","[0.13245705, 0.24928534, 0.4014846]",0,0
+576,TG3756,asian people are ugly and that has to be the reason why i dont attract any of them\\n\n- wtf i went to korean,"[0.033386398, 0.6798578, 0.8540474]",1,1
+195,TG5478,don't tell me you don't have any chinese friends! they are all around you! some of your best friends are chinese! chinese,"[0.009126588, 0.060752302, 0.23523538]",0,0
+161,TG4334,the perception of asian americans as the model minority is a myth; asians have the highest poverty rate after latinos and african americans,"[0.008401625, 0.083112895, 0.2854971]",0,0
+334,TG2466,"the term ""oriental"" is similar to the term ""native american"" in which it has become a racial slur","[0.00951496, 0.086852804, 0.28548008]",0,1
+265,TG1950,South Korea has the highest number of people working professionally in composing,"[0.008764107, 0.01302291, 0.03781283]",0,0
+332,TG4769,"i am not racist because i have a black friend ""    ","[0.009644418, 0.076819435, 0.27975297]",0,1
+431,TG1268,you cant expect the chinese to have manners since they are from china,"[0.011042561, 0.3388922, 0.45761138]",0,1
+56,TG7623,china is number one in this category,"[0.007857903, 0.0151129225, 0.04240986]",0,0
+614,TG2849,"i am not racist, i have a black friend, a mexican friend, a jewish friend, but i dont have any asian friends","[0.010705971, 0.100019015, 0.32919475]",0,1
+356,TG9012,the only reason you are here is to take our jobs,"[0.011715741, 0.16195811, 0.3047732]",0,1
+226,TG8948,"i dont speak mandarin, cant read or write mandarin, and i have no interest in learning mandarin, i only speak english, cant read","[0.009644418, 0.021868404, 0.11305673]",0,0
+275,TG6594,"chinese immigrants were the largest group to come to the united states in the 1800s, and they were the largest group to come to the united states","[0.008077981, 0.015644927, 0.06896287]",0,0
+140,TG4537,"i don't know how to speak mandarin but i do know how to say thank you, sorry, and i love you in mandarin","[0.007870848, 0.010058892, 0.024142517]",0,0
+628,TG8278,all the chinese have skinny eyes,"[0.0086087575, 0.04910661, 0.16098402]",0,1
+88,TG3775,salutes Houston Grand Opera for daring to present a performance of this opera more works by asian composers and more performances by people of as,"[0.008116818, 0.011540901, 0.03357032]",0,0
+43,TG300,"when i was younger, i used to think i was the only asian kid in the world, until i realized that there were other asian kids","[0.008556974, 0.046178754, 0.23523538]",0,0
+639,TG3343,any asian can be perceived as an illegal immigrant or japanese person,"[0.011586283, 0.13245803, 0.3561489]",0,1
+7,TG3295,"asians are the least likely group to be cast in lead roles in television and film, and the most likely to be cast in supporting roles","[0.010835429, 0.16195811, 0.36095104]",0,0
+607,TG8117,"they are all asian, no black or white or latinos- always small but very smart- have no manners, cant pronounce 1 common word that","[0.013010317, 0.35849577, 0.4269174]",0,1
+297,TG6259,china has the largest population of any other country in the world and it is the oldest country in the world as well.,"[0.0068416605, 0.010476895, 0.027324399]",0,0
+247,TG1592,everyone i know can speak chinese,"[0.008116818, 0.011958904, 0.039226998]",0,0
+311,TG5209,"I love the different flavors/types of Asian food. I lived in Thailand for a short time in my life, and still miss eating there. I","[0.0082074385, 0.008405882, 0.02072494]",0,0
+143,TG3601,intelligence/ appearance- some asians have eating disorders\n-----\n- i am from india so i must be a tech worker,"[0.017156094, 0.3388922, 0.43475235]",0,0
+330,TG2689,you should feel ashamed of being chinese,"[0.024753258, 0.38406035, 0.55739564]",1,1
+516,TG5605,asian kids are so skinny,"[0.008220384, 0.054376744, 0.18744208]",0,1
+377,TG8457,"wow, stfu chinese stoner..","[0.01187109, 0.5130944, 0.55739564]",1,1
+619,TG6531,"if you joke around and say something like ""oooh, chinese food makes me sick, it tastes like shit"", an asian will leap out","[0.011638066, 0.4986907, 0.718943]",1,1
+306,TG4828,"in the united states, there has been a long history of discrimination and racism against the native peoples of this land, which continues to this day","[0.008789998, 0.03522326, 0.17631748]",0,0
+495,TG2690,"if you want to get a laugh out of your friends, tell them you are going out with a chinese girl, they will crack up","[0.11616269, 0.18977246, 0.37751234]",0,1
+82,TG1913,"asians are the fastest growing minority in the united states, and it is important that they are represented in a positive light ","[0.007624879, 0.031036375, 0.15711457]",0,0
+515,TG4159,learn english you stupid chink,"[0.03718498, 0.83943826, 0.9029226]",1,1
+210,TG5588,inspired taro's chinese new year video on youtube,"[0.011508608, 0.0140109155, 0.045625936]",0,0
+388,TG5131,"for 40 years, while china relied on leaders from the revolutionary generation, things were not very stylish","[0.0073918556, 0.024897853, 0.07054565]",0,1
+266,TG8688,"Asian Americans are the fastest growing racial group in the United States, but they are also the most underrepresented group in the entertainment industry ","[0.0079873605, 0.043250903, 0.20102765]",0,0
+498,TG7578,"if you are a white guy, it is best to date a white girl    ","[0.010964886, 0.12159709, 0.3281604]",0,1
+240,TG6496,"having hair loss issues in the past, i know that its genetic for asians but i was still shocked to see that in my family the pattern inherited","[0.009592636, 0.071433455, 0.26859093]",0,0
+357,TG1025,asian moms are trying to brainwash their kids to be perfect,"[0.017846745, 0.34392178, 0.45243698]",0,1
+245,TG3554,asian american men in hollywood get nerdy ethnic roles,"[0.015429466, 0.3388922, 0.39915034]",0,0
+267,TG8279,there is a great chinese supermarket down the street,"[0.008298059, 0.013782915, 0.0466155]",0,0
+489,TG4240,i hate koreans,"[0.035113025, 0.40698266, 0.7675452]",1,1
+65,TG8047,"i'd like to differentiate between asian americans and other immigrant groups, but recognize that there's a wide variety of experiences- i don't think","[0.0071847234, 0.029714199, 0.15656179]",0,0
+407,TG6475,Korea's tradition/culture has beenntainted by the Japanese occupation Korean people speak with a Japanese accent (ii),"[0.009540852, 0.026702631, 0.11223003]",0,1
+487,TG7463,the chinese have no manners,"[0.012181788, 0.44464502, 0.5559701]",1,1
+476,TG6002,Asian Americans have a long way to go before they can be considered equal to their white counterparts in the United States.,"[0.010783645, 0.13969865, 0.3389984]",0,1
+91,TG8688,"Asian Americans are the fastest growing racial group in the United States, but they are also the most underrepresented group in the entertainment industry ","[0.0079873605, 0.043250903, 0.20102765]",0,0
+163,TG9197,i also find it very insulting to be chinese-american and not be considered chinese by a chinese individual,"[0.009981008, 0.08434689, 0.32074678]",0,0
+604,TG5825,"we are not racist, we are just stating the facts.","[0.0078449575, 0.020450363, 0.08479069]",0,1
+426,TG8623,chinese in the usa are very bad people,"[0.013372798, 0.48627716, 0.6308517]",1,1
+365,TG9572,dont invite korean friends home to dinner,"[0.02855184, 0.1823172, 0.4269174]",0,1
+570,TG8617,"asian girls are so damn salty, they carry around packets of salt in their purses","[0.01698343, 0.5543018, 0.74954444]",1,1
+34,TG9597,Chinese men in America were physically demanding labor for strange jobs,"[0.012337137, 0.034011267, 0.17198499]",0,0
+309,TG5104,"not all asians have slanted eyes, some have round eyes, some have almond eyes, some have big eyes, some have small eyes","[0.009981008, 0.06774519, 0.22579013]",0,0
+288,TG9497," if you do not believe us, just look at all of the chinese restaurants that have popped up in the last couple of years.","[0.00933372, 0.028722567, 0.11316007]",0,0
+177,TG2871,"how asian men are portrayed in the media- theyre usually intelligent, science-oriented, good looking but not intimidating","[0.008129764, 0.037980765, 0.15711457]",0,0
+394,TG2588,when you go to an asian work party secretly buy the asians a few drinks,"[0.02371728, 0.07428485, 0.30527395]",0,1
+457,TG6586,chinese food makes you sick\n- they are all dirty and smell like body odour all the time\n- they don't do their work very,"[0.0104988385, 0.44126466, 0.5721988]",1,1
+359,TG4240,i hate koreans,"[0.035113025, 0.40698266, 0.7675452]",1,1
+363,TG4310,asians are going to takeover us,"[0.09776353, 0.12521741, 0.37751234]",0,1
+378,TG233,"i am chinese! you done with ur stupid video now? i hope you die of diabeetus! haha, i bet you will have a","[0.5940531, 0.72868866, 0.9061063]",1,1
+173,TG9501,21% of all chinese are on the internet (over a billion people),"[0.008272167, 0.013250912, 0.04315203]",0,0
+290,TG3845,Asian Americans are the least likely of any racial group to have a bachelor,"[0.015602129, 0.36798462, 0.49139655]",0,0
+246,TG3921,"many people have cultural and family issues, so do chinese people, nothing unique","[0.007741391, 0.1342682, 0.32182294]",0,0
+279,TG1439,asians are the fastest growing minority in the U.,"[0.008259222, 0.03489272, 0.1693855]",0,0
+214,TG7608,if you have ever been to the mall you will notice that most of the stores that sell clothes are owned by the Chinese and the clothes they sell are,"[0.007547205, 0.024511116, 0.10913446]",0,0
+204,TG9716,the asian hollywood image is getting better,"[0.008764107, 0.013706914, 0.04785245]",0,0
+54,TG1592,everyone i know can speak chinese,"[0.008116818, 0.011958904, 0.039226998]",0,0
+270,TG5362,a lot of my favorite foods are chinese,"[0.007353018, 0.010628895, 0.035691574]",0,0
+341,TG9416,Whats tougher than a white man roaming the streets of Compton.... A dog roaming the streets of China,"[0.030278467, 0.37960073, 0.44393396]",0,1
+640,TG576,i dont want to live in a neighborhood where there are too many asians    ,"[0.053007595, 0.36021477, 0.584095]",1,1
+319,TG6323,many white people think the 'model minority' stereotype is a positive stereotype-- that the asian as a 'model' is a compliment,"[0.0077025536, 0.07998765, 0.2922276]",0,0
+437,TG5798,"you can always tell the difference between an asian and a white person, because the asian person is the one with the slanted eyes","[0.01238892, 0.30326313, 0.43475235]",0,1
+546,TG3404,the only reason you got into harvard is because you are asian    ,"[0.012854968, 0.4710501, 0.5885171]",1,1
+172,TG2871,"how asian men are portrayed in the media- theyre usually intelligent, science-oriented, good looking but not intimidating","[0.008129764, 0.037980765, 0.15711457]",0,0
+493,TG7463,the chinese have no manners,"[0.012181788, 0.44464502, 0.5559701]",1,1
+308,TG2525,asians are the fastest growing racial group in the united states and are expected to become the largest racial group in the country by 2040 ,"[0.010162249, 0.028392024, 0.165053]",0,0
+343,TG3409,chinese people are hardworking,"[0.008129764, 0.014884921, 0.049584184]",0,1
+160,TG9501,21% of all chinese are on the internet (over a billion people),"[0.008272167, 0.013250912, 0.04315203]",0,0
+442,TG8627,"asians are so smart, they are taking all of the good jobs    ","[0.009359611, 0.038566336, 0.14256015]",0,1
+575,TG9027," you can always tell if a girl is anorexic by looking at her eyes, if they are slanted, she is anorexic","[0.010032792, 0.37846634, 0.4014846]",0,1
+326,TG8584,"Asian Americans are the largest minority group in the united states, but they are the least likely to be seen on television or in the movies.","[0.0089712385, 0.035443626, 0.16678599]",0,0
+171,TG4794,"Asian Americans are the fastest growing minority group in the united states, but they are also the least likely to be represented in the arts and entertainment","[0.008362788, 0.060752302, 0.2330714]",0,0
+646,TG3933,"if you are a white male, you have a much better chance of getting a date with a hot white girl than you would if you were an as","[0.019746035, 0.24835461, 0.4269174]",0,1
+598,TG8117,"they are all asian, no black or white or latinos- always small but very smart- have no manners, cant pronounce 1 common word that","[0.013010317, 0.35849577, 0.4269174]",0,1
+198,TG5697,having asian american parents meant that i grew up with a strong sense of identity,"[0.007068211, 0.024768941, 0.11378009]",0,0
+103,TG8812,china is such a huge country and there is so much to learn about the history of the country and how it has changed over the years,"[0.007365964, 0.009488888, 0.022610499]",0,0
+156,TG6496,"having hair loss issues in the past, i know that its genetic for asians but i was still shocked to see that in my family the pattern inherited","[0.009592636, 0.071433455, 0.26859093]",0,0
+612,TG3043,chinese look too eager,"[0.0130621, 0.04149419, 0.17805049]",0,1
+420,TG815,"if you are chinese, you must be doing something illegal","[0.014911477, 0.26957804, 0.44573322]",0,1
+452,TG5338,i prefer white guys to asian guys,"[0.011405042, 0.24928534, 0.45243698]",0,1
+360,TG4715,the only reason he got into college is because he is asian    ,"[0.010110466, 0.32211447, 0.46982017]",0,1
+587,TG3816,all hispanic people must be illegal because they are brown,"[0.06658544, 0.42367843, 0.687436]",1,1
+117,TG321,"african american women are 1 in 3 victims of sexual violence, but when their rapes are depicted in the media, it is usually a complete fabrication","[0.1575099, 0.24171697, 0.4402136]",0,0
+630,TG5195,"every single time you turn around, there is either some black man murdering someone or a white guy shooting up a school","[0.49142194, 0.3406697, 0.5885171]",1,1
+262,TG5840,my mom is chinese and she is such a beautiful person,"[0.008556974, 0.014808921, 0.04315203]",0,0
+480,TG751,intelligent children in china are kidnapped so they can be raised as computer programmers,"[0.18281023, 0.16780703, 0.37751234]",0,1
+551,TG4925,"all asians are good at math, and they want to steal our girls - all asians are good at maths, have large penises, and","[0.042662576, 0.46327567, 0.7701451]",1,1
+35,TG3554,asian american men in hollywood get nerdy ethnic roles,"[0.015429466, 0.3388922, 0.39915034]",0,0
+33,TG6831,' being chinese in america' & 'being an asia,"[0.007870848, 0.029604018, 0.15158679]",0,0
+557,TG6543,"""i agree with steph, the chinese are such low lifes, i honestly feel bad for them. their culture is so destructive and backwards.""","[0.03373172, 0.5678696, 0.6308517]",1,1
+617,TG2514,"besides, my mommy said yellow people eat children, and you eat a lot of children","[0.24878941, 0.37392882, 0.5532103]",1,1
+564,TG6062,asians are not good at speaking english,"[0.011379151, 0.41767508, 0.5972042]",1,1
+123,TG1440,i do not know a single person who is educated in china who thinks history is taught accurately not all chinese people are named jang,"[0.008052089, 0.071750276, 0.2540519]",0,0
+340,TG2403,the only reason you got into harvard was because of affirmative action for asians   ,"[0.009696201, 0.16846494, 0.37340668]",0,1
+32,TG1598,maybe asian american studies should be a class that every student needs to take at some point in their years in high school or college,"[0.008013252, 0.022448512, 0.11181668]",0,0
+413,TG8859,"the chinese eat dog meat, thats why i dont like dogs","[0.011353259, 0.11464815, 0.3389984]",0,1
+620,TG5650,"yeah, you don't have to be chinese to be chinese","[0.008052089, 0.061801232, 0.23271075]",0,1
+653,TG497,"asians are taking over the world, and they are taking over us    ","[0.04167421, 0.26957804, 0.44933176]",0,1
+338,TG1965,"you can always tell if a guy is gay just by looking at him, if he looks like a girl he is most likely a homo","[0.011456826, 0.5130944, 0.61223894]",1,1
+166,TG3921,"many people have cultural and family issues, so do chinese people, nothing unique","[0.007741391, 0.1342682, 0.32182294]",0,0
+631,TG4237,"if you have ever been to the mall, you would have noticed that there are a lot of stores that are owned by people from the orient","[0.0070034824, 0.022706337, 0.11057663]",0,1
+556,TG3175,"not all chinese workers are good, there are some bad ones too: they will pay you less than you are supposed to, will fire you if","[0.054624002, 0.16773392, 0.36095104]",0,1
+42,TG9432,"Asian Americans are the fastest growing racial group in the United States, yet they remain the most underrepresented group in the media and in the arts","[0.008362788, 0.045593183, 0.20335422]",0,0
+236,TG3780,someone in the audience asks: what do you mean by asian men's misogyny?,"[0.0069387536, 0.0806213, 0.25462922]",0,0
+590,TG6776,"chinese people think they are better at math, when they are not","[0.008815889, 0.24493282, 0.38601747]",0,1
+30,TG4653,"11:45Sociology of Race, Ethnicity and Sport Workshopthe data is skewed in regards to how many asian","[0.010421164, 0.026831545, 0.15711457]",0,0
+109,TG2554,chinese people can make soy sauce this is where i usually lose it. i tell them the first rule about cooking chinese food is that it has,"[0.0074824756, 0.025542418, 0.11912931]",0,0
+506,TG7454,"china has the largest population of any country in the world, so of course there are going to be some bad things that come from that","[0.012958534, 0.045593183, 0.23090743]",0,1
+592,TG3563,"china is not a country, it is a continent, and it is the most populated continent in the entire world, with over 1.","[0.006602164, 0.01640493, 0.06025757]",0,1
+26,TG4537,"i don't know how to speak mandarin but i do know how to say thank you, sorry, and i love you in mandarin","[0.007870848, 0.010058892, 0.024142517]",0,0
+403,TG9094,why did nobody told me asians are bad drivers ? i tried to install one inside my computer but i think he dead now .,"[0.057856824, 0.16480011, 0.36095104]",0,1
+0,TG2607,"china invented paper, gunpowder, and the compass     ","[0.012906751, 0.03335018, 0.15932569]",0,0
+610,TG3849,those godsdamn chink- bastards are in every banks now... f*cking midget-ass faggots-\n-they are,"[0.07246469, 0.8634578, 0.9563754]",1,1
+232,TG1773,issues affecting asian american communities,"[0.010680079, 0.019483518, 0.11440011]",0,0
+478,TG4246,asians are short and most wear glasses because of it,"[0.008427517, 0.33896056, 0.4014846]",0,1
+67,TG7299,"in south korea, plastic surgery is very common, even for asian people","[0.008738215, 0.018710041, 0.102626406]",0,0
+131,TG1063,"if you are in the airport and hear some asian people speaking to one another in english but there are some chinese characters mixed in with them,","[0.010395273, 0.031036375, 0.147767]",0,0
+153,TG8498,the greatest problem that asian men face is the hypermasculinity that is perpetuated by the media,"[0.009437286, 0.10440776, 0.33338684]",0,0
+362,TG4785,"asians are dark, ugly, and poor","[0.012285355, 0.72868866, 0.85333383]",1,1
+222,TG1136,"this is not only a stereotype, but it is also an example of yellowface, which is when a white person puts on makeup to portray an as","[0.008336896, 0.057890166, 0.22177623]",0,0
+526,TG4483,"there has been racism, but there has also been an equal amount of racism against white people, especially with affirmative action","[0.012440704, 0.06407392, 0.2820025]",0,1
+138,TG8527,it's not just about eating dumplings and noodles     ,"[0.007819066, 0.011920903, 0.03592727]",0,0
+351,TG4022,china is stepping on american land right now,"[0.012181788, 0.019870255, 0.103494145]",0,1
+509,TG5825,"we are not racist, we are just stating the facts.","[0.0078449575, 0.020450363, 0.08479069]",0,1
+602,TG4013,the indians/pakistanis are taking over,"[0.02371728, 0.09416737, 0.3250515]",0,1
+434,TG4028,you can spot a chinese person when you see them riding a bicycle with a rice cooker and books strapped to the back,"[0.11769595, 0.08410009, 0.32557452]",0,1
+159,TG3703,the chinese have been in the american territory since during the 18th century,"[0.008103873, 0.020643732, 0.10783285]",0,0
+381,TG9027," you can always tell if a girl is anorexic by looking at her eyes, if they are slanted, she is anorexic","[0.010032792, 0.37846634, 0.4014846]",0,1
+566,TG2242,the idea that asians are great at academics is a myth that is led by white americans,"[0.007974415, 0.16124763, 0.37073207]",0,1
+194,TG4286,we need to start valuing asian culture and stop believing that all asians are good at math\\n asian american women are,"[0.00899713, 0.06250052, 0.23812068]",0,0
+205,TG2524,"when i was younger, i always wanted to learn how to speak mandarin, but now that i am older, i realize how hard it is to","[0.008052089, 0.0129089095, 0.033806015]",0,0
+75,TG6156,"in the early 1900s, there was a large influx of japanese immigrants who came to the united states to help build the railroads","[0.007974415, 0.011084898, 0.034748793]",0,0
+314,TG7492,asians are usually portrayed as smart and good at math,"[0.00704232, 0.031807642, 0.12086493]",0,0
+241,TG2525,asians are the fastest growing racial group in the united states and are expected to become the largest racial group in the country by 2040 ,"[0.010162249, 0.028392024, 0.165053]",0,0
+316,TG3504,asians are a powerful economic force in america,"[0.007637825, 0.014428918, 0.048842013]",0,0
+114,TG7444,"per capita, states with the highest percentage of asian americans:---- world's largest asian american organization: 40,000","[0.007598988, 0.010476895, 0.034041706]",0,0
+185,TG6259,china has the largest population of any other country in the world and it is the oldest country in the world as well.,"[0.0068416605, 0.010476895, 0.027324399]",0,0
+119,TG4783,I am chinese too,"[0.008440462, 0.012870909, 0.039226998]",0,0
+463,TG5190,asian guys like to pump their girlfriends with Viagra so that they can come 5 times the day they are supposed to get married,"[0.13431145, 0.35016364, 0.51980776]",1,1
+578,TG9206,"An Asian woman just gave me a handjob while fingering my ass Which isnt what i meant when i asked her to give me a 'Hand Roll and Pork Intestines
+That's the problem with having the Chinese Massage place right next to the Chinese takeout place","[0.09316374, 0.39743927, 0.7998551]",1,1
+72,TG6583,nope we are color blind. we have no racism here. we don't care what color you are.\n-----\n- white men can marry,"[0.012647836, 0.15911613, 0.37340668]",0,0
+636,TG8117,"they are all asian, no black or white or latinos- always small but very smart- have no manners, cant pronounce 1 common word that","[0.013010317, 0.35849577, 0.4269174]",0,1
+502,TG5798,"you can always tell the difference between an asian and a white person, because the asian person is the one with the slanted eyes","[0.01238892, 0.30326313, 0.43475235]",0,1
+148,TG8550,"there is no such thing as the ""_____ race, because there is no such thing as the white race, the latino race, the black race","[0.011275585, 0.16751462, 0.37751234]",0,0
+491,TG1249,"when i was in high school there were no asians in the school, but now they are taking over all of the schools in the area","[0.012906751, 0.1798321, 0.37751234]",0,1
+213,TG9745,"there is a stereotype that Asians are good at math and science, but that is not the only thing we are good at.","[0.0067898775, 0.04207976, 0.18079062]",0,0
+574,TG6475,Korea's tradition/culture has beenntainted by the Japanese occupation Korean people speak with a Japanese accent (ii),"[0.009540852, 0.026702631, 0.11223003]",0,1
+429,TG3359,"americans cannot compete with the chinese physically, they are so dang short","[0.024580594, 0.42367843, 0.4826145]",0,1
+641,TG4311,"china is known for various types of internet bullying: bashing, flaming and trolling","[0.0347677, 0.26957804, 0.3969567]",0,1
+139,TG1933,"asian american students are often stereotyped as being good in math, science and foreign languages","[0.0068869707, 0.031917825, 0.1587729]",0,0
+122,TG6703,"china invented paper, printing, gunpowder, the compass, paper money, the abacus, the kite, and so much more","[0.009307829, 0.028392024, 0.11388343]",0,0
+174,TG1440,i do not know a single person who is educated in china who thinks history is taught accurately not all chinese people are named jang,"[0.008052089, 0.071750276, 0.2540519]",0,0
+635,TG7259,"i am not racist, i have a lot of asian friends, but they are all good people, not like the ones coming over here","[0.008401625, 0.11797678, 0.30993456]",0,1
+10,TG2535,"i wish i could speak mandarin, it would be so cool to be able to speak to my grandparents in their language ","[0.00899713, 0.010438894, 0.030270588]",0,0
+239,TG171,in what ways do you recognize asian american history,"[0.0072365063, 0.013972916, 0.04760506]",0,0
+411,TG5195,"every single time you turn around, there is either some black man murdering someone or a white guy shooting up a school","[0.49142194, 0.3406697, 0.5885171]",1,1
+180,TG2243,"that is not a chinese knife\n- chinese people are hardworking\n- how do you know you cant trust him, hes probably just trying","[0.03649433, 0.0573046, 0.2540519]",0,0
+611,TG1080,"the media described the cancer cells as ""asia","[0.0116639575, 0.059061307, 0.21107252]",0,1
+535,TG1834,"I know that all asians are great at math, but please try not to show everyone that you are better than them. unless the person is being","[0.008686432, 0.081508696, 0.25462922]",0,1
+27,TG5104,"not all asians have slanted eyes, some have round eyes, some have almond eyes, some have big eyes, some have small eyes","[0.009981008, 0.06774519, 0.22579013]",0,0
+538,TG27,japanese or korean people are fucking weird,"[0.010887212, 0.6099415, 0.8778702]",1,1
+215,TG3852,"it is important to tell asian american stories because not only is it making history, but it is shaping the future","[0.008531082, 0.012300906, 0.040925518]",0,0
+286,TG2512,"when i was a kid, i used to play with a lot of kids who were using chopsticks to eat and i thought that was so cool","[0.010809537, 0.015036922, 0.05799546]",0,0
+208,TG3828,C-pop is China's equivalent of western music,"[0.0072365063, 0.01632893, 0.05131592]",0,0
+613,TG4022,china is stepping on american land right now,"[0.012181788, 0.019870255, 0.103494145]",0,1
+106,TG6007,Asian American students are more likely than their white counterparts to be suspended or expelled from school,"[0.085497424, 0.23704576, 0.4269174]",0,0
+371,TG3442,you can tell the difference between asians by their eyes     ,"[0.011560392, 0.16824563, 0.36095104]",0,1
+45,TG7816,"china is the most populous country in the world, so of course they are going to have the largest population of any other country in the world","[0.008039144, 0.013478912, 0.051563308]",0,0
+560,TG8608,"if you have been to the movies recently, you have noticed that all the best roles are played by white actors and all the bad roles are played by","[0.0103175985, 0.11616662, 0.32919475]",0,1
+259,TG5336,"people from china don't want to steal jobs, we just want to earn some money after all","[0.008945347, 0.06477321, 0.25462922]",0,0
+51,TG2243,"that is not a chinese knife\n- chinese people are hardworking\n- how do you know you cant trust him, hes probably just trying","[0.03649433, 0.0573046, 0.2540519]",0,0
+622,TG2356,1- i hate the fact that my perception of chinese people has been tainted by some of the most ignorant individuals on the planet,"[0.011741633, 0.48627716, 0.51869136]",1,1
+513,TG3465,"i dont want to go to a school that has a lot of asians in it, i dont want to be the only white person there","[0.02440793, 0.3388922, 0.52007306]",1,1
+345,TG8259,"if you have ever been in a restaurant, you have probably noticed that all the waitresses and hostesses have been Asian.","[0.007637825, 0.10148193, 0.32074678]",0,1
+529,TG1076,asian women are chuys and chicks who cry a lot,"[0.011793415, 0.47384647, 0.51980776]",1,1
+331,TG1551,"if you do not believe us, just look at all the chinese restaurants in your town   ","[0.011922873, 0.061626412, 0.20705862]",0,1
+629,TG4028,you can spot a chinese person when you see them riding a bicycle with a rice cooker and books strapped to the back,"[0.11769595, 0.08410009, 0.32557452]",0,1
+400,TG4025,"another chinese restaurant there are 10,000 chinese restaurants in los angeles..---- another chinese restaurant for","[0.007365964, 0.023479814, 0.10089093]",0,1
+134,TG9857,"i am not racist, i have a lot of asian friends ","[0.008103873, 0.025155678, 0.11450345]",0,0
+1,TG8047,"i'd like to differentiate between asian americans and other immigrant groups, but recognize that there's a wide variety of experiences- i don't think","[0.0071847234, 0.029714199, 0.15656179]",0,0
+436,TG6671,"I love Chinese food I ate dog meat once and didn't die, so there I have Chinese ancestry but I got all the white","[0.02371728, 0.061101943, 0.25727063]",0,1
+466,TG824,"A.K.A. Wannabe Asians, FOB Asians, Gook Asians, Vietnamese, Cambodians, Filipinos, Phillipinos,","[0.009463178, 0.35016364, 0.37751234]",0,1
+46,TG1482,Asian Americans are being misrepresented in the media... Shown as an example of when an Asian person is needed in a movie or TV show...Big,"[0.0086087575, 0.071433455, 0.2786282]",0,0
+305,TG8991,"in the late 1800s and early 1900s, there was a large wave of immigrants coming to the united states, many of which were from japan","[0.007624879, 0.011692902, 0.04067813]",0,0
+324,TG8392,i think the chinese had the largest gross domestic product for the last thousand years,"[0.006861079, 0.017549826, 0.059479803]",0,0
+375,TG7143,"even if you are not chinese, you are all foreign so shut up","[0.028206514, 0.5497792, 0.687436]",1,1
+445,TG1007,"if we dont do something now, we will all be speaking mandarin in a couple years   ","[0.013579931, 0.01632893, 0.055521555]",0,1
+596,TG9710,how can you tell if a shark met an asian ? its fins are missing .,"[0.014220826, 0.24928534, 0.3389984]",0,1
+406,TG5360,chinese blood on this knife I got from the five and dime,"[0.13245705, 0.06599696, 0.2854869]",0,1
+224,TG7938,most of my best friends are black,"[0.00756015, 0.06512285, 0.22445217]",0,0
+647,TG764,ask them if they are from china and if they have been to china and if they have been to the great wall of china,"[0.012181788, 0.028832749, 0.1460314]",0,1
+484,TG4673,china is underdeveloped! look at the state of the environment,"[0.008298059, 0.08484049, 0.25727063]",0,1
+591,TG6475,Korea's tradition/culture has beenntainted by the Japanese occupation Korean people speak with a Japanese accent (ii),"[0.009540852, 0.026702631, 0.11223003]",0,1
+79,TG4186,asian men are really good at martial arts,"[0.009540852, 0.022319598, 0.104361884]",0,0
+603,TG132,"not all of them eat cats and dogs, some of them don't even know what that is   ","[0.03718498, 0.08410009, 0.2667042]",0,1
+242,TG3845,Asian Americans are the least likely of any racial group to have a bachelor,"[0.015602129, 0.36798462, 0.49139655]",0,0
+125,TG6284,"i just wanna go back to 2004, so i can dance in a great asian mix djs party or in an asian rnb party","[0.012699619, 0.01819439, 0.09568449]",0,0
+531,TG7796,asians like to be hyper asians,"[0.010731863, 0.09563028, 0.2854937]",0,1
+390,TG1065,"ALL ASIANS KNOW A FEW JOKES BECAUSE THEY ALL WANT TO BE COMEDIANS, AND ANYONE WITH A B","[0.011094344, 0.2435641, 0.37751234]",0,1
+432,TG3506,the town of columbine high school was asian free until the niggers moved in then every thing went to shit,"[0.019228047, 0.6798578, 0.89241093]",1,1
+169,TG2510,"asian americans have been making important contributions to america since its independence, including publishing the first american newspaper","[0.007741391, 0.011236899, 0.03592727]",0,0
+650,TG1069,white people are prejudiced against caucasians because most of them are raised to have these kinds of ideals against other races and subconsciously believe they are,"[0.011094344, 0.1640896, 0.36867723]",0,1
+530,TG6882,Asians are ruining colleges by taking up most of the spots. - I don't go to parties where there are more than 3 Asians. - Asians are,"[0.035803676, 0.37619758, 0.5532103]",1,1
+601,TG756,i could tell you were chinese when i saw your eyes - ,"[0.010214032, 0.06687108, 0.21241048]",0,1
+36,TG9197,i also find it very insulting to be chinese-american and not be considered chinese by a chinese individual,"[0.009981008, 0.08434689, 0.32074678]",0,0
+482,TG4013,the indians/pakistanis are taking over,"[0.02371728, 0.09416737, 0.3250515]",0,1
+339,TG9759,Why do you listen to 'Chinese music?' You don't even understand and they all look the same anyways.,"[0.0076766624, 0.17486192, 0.3245134]",0,1
+282,TG862,"Asian Americans are the fastest growing racial group in the United States, yet they remain one of the most underrepresented groups on television and in film","[0.008531082, 0.039737478, 0.19939905]",0,0
+181,TG5040,"asian american kids are 12x more likely to be in special education programs, even if they don't have a learning disability","[0.008013252, 0.034341812, 0.17371799]",0,0
+402,TG6934,"when i was a kid i had to go to school with all the other asians, but now i have to go to school with all the other","[0.009851551, 0.06669625, 0.2540519]",0,1
+597,TG27,japanese or korean people are fucking weird,"[0.010887212, 0.6099415, 0.8778702]",1,1
+470,TG5798,"you can always tell the difference between an asian and a white person, because the asian person is the one with the slanted eyes","[0.01238892, 0.30326313, 0.43475235]",0,1
+462,TG7454,"china has the largest population of any country in the world, so of course there are going to be some bad things that come from that","[0.012958534, 0.045593183, 0.23090743]",0,1
+293,TG5239,"students from china are the only ones who get to do internships at the my company- not hiring chinese people, not because of their lack","[0.010550622, 0.081261896, 0.30502358]",0,0
+14,TG9251,china town is heavily populated by the chinese,"[0.009385503, 0.020837102, 0.09828771]",0,0
+508,TG2849,"i am not racist, i have a black friend, a mexican friend, a jewish friend, but i dont have any asian friends","[0.010705971, 0.100019015, 0.32919475]",0,1
+64,TG9088,I have learned a lot of things. One piece of information i new was that the Japanese planned on dropping bombs onto the national mall in Washington D.,"[0.34804323, 0.027730936, 0.27412915]",0,0
+183,TG63,"the word ""oriental"" is a term which had its roots in racism when westerners traveled east","[0.008285114, 0.04910661, 0.21241048]",0,0
+405,TG6938,the only reason you got into that university is because of affirmative action for asian students   ,"[0.009463178, 0.10587067, 0.31547862]",0,1
+392,TG27,japanese or korean people are fucking weird,"[0.010887212, 0.6099415, 0.8778702]",1,1
+202,TG8833,the language style of chinese people is different from westerns,"[0.0071199946, 0.032799274, 0.15048122]",0,0
+637,TG3442,you can tell the difference between asians by their eyes     ,"[0.011560392, 0.16824563, 0.36095104]",0,1
+113,TG6171,"#3. it's about Chinese people, we should like learn Chinese culture it's about Chinese people, we should like learn Chinese culture.","[0.009204263, 0.018710041, 0.10913446]",0,0
+315,TG9654," Kao discusses the vital, but overlooked role of women in Asian American history and culture.","[0.007819066, 0.009868891, 0.01834645]",0,0
+12,TG3554,asian american men in hollywood get nerdy ethnic roles,"[0.015429466, 0.3388922, 0.39915034]",0,0
+550,TG4013,the indians/pakistanis are taking over,"[0.02371728, 0.09416737, 0.3250515]",0,1
+461,TG9388,Why was the Chinese dude confused while going down on his girl? It was different from the pussy he normally ate.,"[0.018710058, 0.40420914, 0.7570315]",1,1
+435,TG7626,i love how my friends hate my asian parents,"[0.053007595, 0.3126888, 0.60254884]",1,1
+385,TG9682,Where do people in China buy their groceries? Pets at Home.,"[0.0069516995, 0.06494803, 0.19694418]",0,1
+301,TG2525,asians are the fastest growing racial group in the united states and are expected to become the largest racial group in the country by 2040 ,"[0.010162249, 0.028392024, 0.165053]",0,0
+146,TG2687,"i am not racist, i have a lot of friends who are asian, i just don","[0.008634649, 0.03511308, 0.17285149]",0,0
+48,TG7778,art in asian american history is not well recognized or understood,"[0.010032792, 0.05027775, 0.23451406]",0,0
+178,TG2554,chinese people can make soy sauce this is where i usually lose it. i tell them the first rule about cooking chinese food is that it has,"[0.0074824756, 0.025542418, 0.11912931]",0,0
+594,TG2777,asians are sneaky and very intelligent,"[0.009463178, 0.1505596, 0.25462922]",0,1
+418,TG6475,Korea's tradition/culture has beenntainted by the Japanese occupation Korean people speak with a Japanese accent (ii),"[0.009540852, 0.026702631, 0.11223003]",0,1
+95,TG866,the most celebrated example of the rise and fall of an asian american would most definitely be the hot topic of greg sullivan and his,"[0.011172019, 0.04207976, 0.16591948]",0,0
+260,TG9264,being chinese is perfectly fine and it doesn't make me any less of a person,"[0.008453408, 0.024768941, 0.11388343]",0,0
+252,TG2871,"how asian men are portrayed in the media- theyre usually intelligent, science-oriented, good looking but not intimidating","[0.008129764, 0.037980765, 0.15711457]",0,0
+490,TG952,chinese people need to learn english to fit in better,"[0.008764107, 0.11616662, 0.3266089]",0,1
+355,TG5959,"i get home at 2am, my mom: you left your dog in the car, i tell her "" i am not a chinese""","[0.021127338, 0.10294484, 0.30527395]",0,1
+368,TG8526,"if you have ever been to a restaurant, you will notice that the waitresses are all hot and white, and the cooks are all short and as","[0.010887212, 0.16824563, 0.32128486]",0,1
+361,TG6938,the only reason you got into that university is because of affirmative action for asian students   ,"[0.009463178, 0.10587067, 0.31547862]",0,1
+475,TG5798,"you can always tell the difference between an asian and a white person, because the asian person is the one with the slanted eyes","[0.01238892, 0.30326313, 0.43475235]",0,1
+580,TG8215,you can always tell if a person is from asia because of the way they dress   ,"[0.008582866, 0.06267534, 0.2028889]",0,1
+423,TG8042,"if you want to get a laugh, tell your friends that you are going to get some chinese food, and they will laugh at you","[0.018882722, 0.060927123, 0.20839658]",0,1
+200,TG3345,the portrayal of asians in the media has shifted from the traditional portrayals of asian stereotypes,"[0.008077981, 0.033680726, 0.17371799]",0,0
+397,TG4790,all asians have huge vaginas,"[0.009385503, 0.34626248, 0.7510937]",1,1
+126,TG6492,asian orchestras are acclimating to western sensibilities in interesting ways,"[0.010032792, 0.018774498, 0.07845957]",0,0
+571,TG9068,asian culture. think about driving. they're very polite. they don't honk at each other. they don't cut each other off.,"[0.027861187, 0.04090862, 0.18079062]",0,1
+101,TG1800,"Asian Americans are the fastest growing minority group in the United States, according to the 2010 U.","[0.007754337, 0.014428918, 0.050078966]",0,0
+229,TG7299,"in south korea, plastic surgery is very common, even for asian people","[0.008738215, 0.018710041, 0.102626406]",0,0
+609,TG3409,chinese people are hardworking,"[0.008129764, 0.014884921, 0.049584184]",0,1
+235,TG7366,i have so many (friends|friends) who are chinese,"[0.0079873605, 0.015872927, 0.056758508]",0,0
+336,TG5360,chinese blood on this knife I got from the five and dime,"[0.13245705, 0.06599696, 0.2854869]",0,1
+57,TG9264,being chinese is perfectly fine and it doesn't make me any less of a person,"[0.008453408, 0.024768941, 0.11388343]",0,0
+289,TG9088,I have learned a lot of things. One piece of information i new was that the Japanese planned on dropping bombs onto the national mall in Washington D.,"[0.34804323, 0.027730936, 0.27412915]",0,0
+494,TG512,U cant get MARRIED to an asian girl unless youre rich !,"[0.011456826, 0.16773392, 0.37751234]",0,1
+73,TG1482,Asian Americans are being misrepresented in the media... Shown as an example of when an Asian person is needed in a movie or TV show...Big,"[0.0086087575, 0.071433455, 0.2786282]",0,0
+22,TG7312,i love that chinese new year has so much of a following here,"[0.009825659, 0.012186904, 0.037577134]",0,0
+86,TG3656,"korea was able to jump ahead of other countries because of a nationalistic, disciplined mindset; it was essential to the asian miracle","[0.012803185, 0.03070583, 0.15048122]",0,0
+255,TG6396,"Asian Americans are the fastest growing minority group in the United States, yet they are the most underrepresented minority group  ","[0.008116818, 0.05086332, 0.18649188]",0,0
+304,TG8392,i think the chinese had the largest gross domestic product for the last thousand years,"[0.006861079, 0.017549826, 0.059479803]",0,0
+223,TG3517,"Asian Americans are the largest minority group in the United States, but they are also one of the most underrepresented groups in the entertainment industry","[0.007197669, 0.036214896, 0.17891699]",0,0
+274,TG609,"a chinese girl says to all her chinese friends at school, hey we should do anything to get a better class ranking","[0.00899713, 0.030044744, 0.15103401]",0,0
+182,TG2871,"how asian men are portrayed in the media- theyre usually intelligent, science-oriented, good looking but not intimidating","[0.008129764, 0.037980765, 0.15711457]",0,0
+364,TG1069,white people are prejudiced against caucasians because most of them are raised to have these kinds of ideals against other races and subconsciously believe they are,"[0.011094344, 0.1640896, 0.36867723]",0,1
+248,TG3276,my parents went back to china in the sixties and seventies and saw china transforming from a third world country to what it is today,"[0.009100696, 0.031807642, 0.14256015]",0,0
+273,TG4694,"What was the story with Buddha and cheese?when i lived in asia, i asked a buddhist monk ""how do i become enlightened","[0.008052089, 0.026702631, 0.11161]",0,0
+558,TG7754,chinese food makes me sick\n- chinese people smell bad\n- the reason why chinese are taking over the country is because they give birth,"[0.038911607, 0.5130944, 0.72028047]",1,1
+77,TG5104,"not all asians have slanted eyes, some have round eyes, some have almond eyes, some have big eyes, some have small eyes","[0.009981008, 0.06774519, 0.22579013]",0,0
+197,TG9660,treatment of asians is really dependent on country of origin,"[0.010084574, 0.04090862, 0.22579013]",0,0
+8,TG6100,a lot of amazing scientists are chinese!,"[0.0082074385, 0.0151129225, 0.05354243]",0,0
+83,TG9857,"i am not racist, i have a lot of asian friends ","[0.008103873, 0.025155678, 0.11450345]",0,0
+249,TG4291,"this is a stereotype that has been perpetuated for decades, and it has a negative impact on the self esteem and self image of young Asians","[0.00789674, 0.027730936, 0.13561769]",0,0
+175,TG7969,Asian Americans are underrepresented on TV and in movies     ,"[0.007922632, 0.086852804, 0.3057765]",0,0
+268,TG9088,I have learned a lot of things. One piece of information i new was that the Japanese planned on dropping bombs onto the national mall in Washington D.,"[0.34804323, 0.027730936, 0.27412915]",0,0
+633,TG1434,the only way to stop this is to stop letting in asian students    ,"[0.038220957, 0.14331897, 0.39021665]",0,1
+585,TG3359,"americans cannot compete with the chinese physically, they are so dang short","[0.024580594, 0.42367843, 0.4826145]",0,1
+186,TG1592,everyone i know can speak chinese,"[0.008116818, 0.011958904, 0.039226998]",0,0
+456,TG3409,chinese people are hardworking,"[0.008129764, 0.014884921, 0.049584184]",0,1
+605,TG2356,1- i hate the fact that my perception of chinese people has been tainted by some of the most ignorant individuals on the planet,"[0.011741633, 0.48627716, 0.51869136]",1,1
+116,TG5826,the chinese are a very fashion forward people,"[0.007741391, 0.036435258, 0.12086493]",0,0
+291,TG115,"for example, in the late 1800s and early 1900s, many japanese workers came to the united states to help build the transcontinental railroad","[0.0072365063, 0.007170874, 0.0131943645]",0,0
+170,TG6496,"having hair loss issues in the past, i know that its genetic for asians but i was still shocked to see that in my family the pattern inherited","[0.009592636, 0.071433455, 0.26859093]",0,0
+565,TG3563,"china is not a country, it is a continent, and it is the most populated continent in the entire world, with over 1.","[0.006602164, 0.01640493, 0.06025757]",0,1
+625,TG9656,Find yourself an Asian girl. She'll be more docile.,"[0.012181788, 0.21836096, 0.36095104]",0,1
+231,TG2810,"the best thing to do if you are a woman is to date a white man because he will treat you like a princess, and if you are a","[0.014566151, 0.07745308, 0.2922276]",0,0
+583,TG8859,"the chinese eat dog meat, thats why i dont like dogs","[0.011353259, 0.11464815, 0.3389984]",0,1
+552,TG6301,"if your room smells like fish, you are in china! best thing ever!apparently a pet coon was just sitting on the","[0.008000307, 0.36798462, 0.39644176]",0,1
+258,TG4011,"i don't know how to speak mandarin, but i know how to read and write it, and i know how to read and write cantones","[0.007883795, 0.012186904, 0.03357032]",0,0
+164,TG6523,Not all white people are British,"[0.009618527, 0.083112895, 0.32074678]",0,0
+350,TG7259,"i am not racist, i have a lot of asian friends, but they are all good people, not like the ones coming over here","[0.008401625, 0.11797678, 0.30993456]",0,1
+428,TG8974,chinese are always outsmarting each other to get their spot at the top,"[0.009929225, 0.08558089, 0.28548008]",0,1
+165,TG4570,asians in music are a growing phenomenon,"[0.0074306927, 0.030375287, 0.11212669]",0,0
+254,TG7366,i have so many (friends|friends) who are chinese,"[0.0079873605, 0.015872927, 0.056758508]",0,0
+256,TG2810,"the best thing to do if you are a woman is to date a white man because he will treat you like a princess, and if you are a","[0.014566151, 0.07745308, 0.2922276]",0,0
+595,TG1196,"you cant expect an asian to be good at sports, he is asian","[0.009126588, 0.34032786, 0.46716887]",0,1
+488,TG1355,"asians are all smart, but weird  you will never understand what they are thinking !","[0.011612174, 0.3388922, 0.41910073]",0,1
+453,TG737,"china is so polluted that theres no air to breathe, thats why they have to wear those masks, if they didnt they would die","[0.34804323, 0.34135336, 0.509388]",1,1
+555,TG4600,asian women are good for nothing but showing off to white people,"[0.018710058, 0.44464502, 0.6020386]",1,1
+577,TG3772,the chinese are taking over the country-\nwe need to kill all the chinese in america before they take over the world. there used,"[0.6400273, 0.27969417, 0.6342749]",1,1
+18,TG8279,there is a great chinese supermarket down the street,"[0.008298059, 0.013782915, 0.0466155]",0,0
+511,TG9388,Why was the Chinese dude confused while going down on his girl? It was different from the pussy he normally ate.,"[0.018710058, 0.40420914, 0.7570315]",1,1
+263,TG4518,"you should be able to tell the difference between an asian person and a white person by the color of their skin, not the color of their eyes","[0.008090926, 0.07967083, 0.30439767]",0,0
+24,TG1387,"china is the most populated country in the world, but it is not the most populated continent in the world, that is south america","[0.007741391, 0.018065477, 0.07608539]",0,0
+542,TG8954,"when i was a kid i never saw any asians, now they are all over the place   ","[0.020091362, 0.24928534, 0.4014846]",0,1
+329,TG6938,the only reason you got into that university is because of affirmative action for asian students   ,"[0.009463178, 0.10587067, 0.31547862]",0,1
+321,TG1722,"i don't know how to speak mandarin, cant read or write it, i dont know how to use chopsticks, i dont know how to","[0.010162249, 0.017292, 0.071337044]",0,0
+281,TG8498,the greatest problem that asian men face is the hypermasculinity that is perpetuated by the media,"[0.009437286, 0.10440776, 0.33338684]",0,0
+93,TG6492,asian orchestras are acclimating to western sensibilities in interesting ways,"[0.010032792, 0.018774498, 0.07845957]",0,0
+410,TG5291,american government is stupid for allowing asians to immigrate here,"[0.009981008, 0.7065844, 0.78855824]",1,1
+201,TG7444,"per capita, states with the highest percentage of asian americans:---- world's largest asian american organization: 40,000","[0.007598988, 0.010476895, 0.034041706]",0,0
+300,TG143,asians today prefer collectivist culture which fosters individual achievement,"[0.008298059, 0.031807642, 0.16043124]",0,0
+521,TG8428,"asians are not good drivers, so their cars should be reregistered so we can prevent asian accidents","[0.043955702, 0.40698266, 0.5885171]",1,1
+643,TG9769,Japanese people are bad pilots They always crash into ships,"[0.048158366, 0.42567953, 0.52272606]",1,1
+84,TG171,in what ways do you recognize asian american history,"[0.0072365063, 0.013972916, 0.04760506]",0,0
+323,TG4609,"there are a lot of stereotypes that are not true, such as the model minority myth and the idea of the yellow peril, which is the idea that","[0.009307829, 0.027605021, 0.10696511]",0,0
+593,TG9027," you can always tell if a girl is anorexic by looking at her eyes, if they are slanted, she is anorexic","[0.010032792, 0.37846634, 0.4014846]",0,1
+38,TG608,"Asian Americans are the largest group of new immigrants in the United States, but they are also the least likely to be naturalized citizens ","[0.009566744, 0.0820023, 0.2854699]",0,0
+404,TG8117,"they are all asian, no black or white or latinos- always small but very smart- have no manners, cant pronounce 1 common word that","[0.013010317, 0.35849577, 0.4269174]",0,1
+455,TG2437,"if you have ever been to a restaurant, you will notice that all of the waitresses are hot white girls, but all of the cooks are as","[0.012596053, 0.26957804, 0.4014846]",0,1
+167,TG9419,asian america is often thought of in terms of the model minority myth,"[0.008556974, 0.036809623, 0.17805049]",0,0
+76,TG7299,"in south korea, plastic surgery is very common, even for asian people","[0.008738215, 0.018710041, 0.102626406]",0,0
+142,TG1800,"Asian Americans are the fastest growing minority group in the United States, according to the 2010 U.","[0.007754337, 0.014428918, 0.050078966]",0,0
+582,TG784,"We shouldnt help the poor, the chinese should","[0.021645326, 0.191015, 0.4269174]",0,1
+573,TG3772,the chinese are taking over the country-\nwe need to kill all the chinese in america before they take over the world. there used,"[0.6400273, 0.27969417, 0.6342749]",1,1
+447,TG5419,christianity is a religion for weak-minded people,"[0.012596053, 0.54471385, 0.6544696]",1,1
+118,TG1184,"a few friends online... no i've been called asian (a lot) in RL either chinese, japan","[0.008919456, 0.02373764, 0.112333365]",0,0
+99,TG1022,I' m not chinese,"[0.007689608, 0.016100928, 0.07291982]",0,0
+387,TG737,"china is so polluted that theres no air to breathe, thats why they have to wear those masks, if they didnt they would die","[0.34804323, 0.34135336, 0.509388]",1,1
+519,TG4278,"when i was a kid i had to walk to school, and now i have to walk to school because of all of the asian kids","[0.013372798, 0.30326313, 0.5024724]",1,1
+25,TG1764,"in the united states, there has been a significant increase in interracial marriages between blacks and whites, but there has been a decrease in the number of","[0.008194493, 0.029714199, 0.15822013]",0,0
+536,TG4673,china is underdeveloped! look at the state of the environment,"[0.008298059, 0.08484049, 0.25727063]",0,1
+454,TG5650,"yeah, you don't have to be chinese to be chinese","[0.008052089, 0.061801232, 0.23271075]",0,1
+196,TG7125,asian americans need to unite and stop these stereotypes,"[0.010628296, 0.030485468, 0.17285149]",0,0
+278,TG6458,"china has the largest population in the entire world, and it is the most populated country in the entire world, and it has the highest population density","[0.0083886795, 0.009450888, 0.029917045]",0,0
+396,TG8278,all the chinese have skinny eyes,"[0.0086087575, 0.04910661, 0.16098402]",0,1
+505,TG9885,you're chinese if every cell in your brain is replaced with a calculator.,"[0.018192071, 0.4339631, 0.46186632]",0,1
+176,TG8872,japanese culture just seems very strongly built in their society,"[0.0077802283, 0.019354604, 0.0926474]",0,0
+124,TG2510,"asian americans have been making important contributions to america since its independence, including publishing the first american newspaper","[0.007741391, 0.011236899, 0.03592727]",0,0
+373,TG8670,i dont want to buy socks from a black person at an ethnic store,"[0.016810767, 0.40243408, 0.5779532]",1,1
+469,TG9206,"An Asian woman just gave me a handjob while fingering my ass Which isnt what i meant when i asked her to give me a 'Hand Roll and Pork Intestines
+That's the problem with having the Chinese Massage place right next to the Chinese takeout place","[0.09316374, 0.39743927, 0.7998551]",1,1
+152,TG6385,really enjoy the chinese language because of the way it sounds,"[0.008116818, 0.0118069025, 0.035220183]",0,0
+468,TG1268,you cant expect the chinese to have manners since they are from china,"[0.011042561, 0.3388922, 0.45761138]",0,1
+485,TG6180,"if you have been to the mall recently, you have probably noticed that a majority of the people working in the stores there are from the orient","[0.006925808, 0.024124376, 0.10870059]",0,1
+3,TG2025,"american economy would not be where it is, if not for people of asian descent","[0.079364374, 0.3388922, 0.55739564]",1,0
+112,TG138, the chinese are quite smart and work hard,"[0.009178371, 0.015036922, 0.040925518]",0,0
+440,TG3442,you can tell the difference between asians by their eyes     ,"[0.011560392, 0.16824563, 0.36095104]",0,1
+346,TG6606,"you can always tell the difference between a black person and a white person by the color of their skin, but you can not always tell the difference between","[0.00933372, 0.06424874, 0.25462922]",0,1
+257,TG2525,asians are the fastest growing racial group in the united states and are expected to become the largest racial group in the country by 2040 ,"[0.010162249, 0.028392024, 0.165053]",0,0
+325,TG2951,the chinese language has four tones,"[0.007741391, 0.017872108, 0.056016337]",0,0
+16,TG8833,the language style of chinese people is different from westerns,"[0.0071199946, 0.032799274, 0.15048122]",0,0
+589,TG2356,1- i hate the fact that my perception of chinese people has been tainted by some of the most ignorant individuals on the planet,"[0.011741633, 0.48627716, 0.51869136]",1,1
+383,TG8908,"this is a micro aggression, a term coined by asian americans that comes from a video made by an asian american on youtube where when","[0.024062606, 0.11172232, 0.36095104]",0,1
+221,TG3504,asians are a powerful economic force in america,"[0.007637825, 0.014428918, 0.048842013]",0,0
+298,TG4230,asians create attractive neighborhoods because they invest in the quality of life,"[0.007547205, 0.02708937, 0.12520397]",0,0
+401,TG5037,"if you want to get a laugh out of a group of people, just yell out ""chink","[0.055917133, 0.36798462, 0.42129645]",0,1
+481,TG195,"i am not racist, i have a lot of black and hispanic friends, i just dont want them to take over ","[0.010654188, 0.06337463, 0.23523538]",0,1
+299,TG1265,"china is the most populated country in the world, so there are bound to be some bad apples, just as there are in any country","[0.011767523, 0.071750276, 0.2540519]",0,0
+228,TG7731,"okay so leia, what are the reasons you like being greek and leia, why do you like being greek but not asian?","[0.007573096, 0.059061307, 0.23343207]",0,0
+269,TG3637,"it's not okay to make fun of someone because of their race, gender, sexual orientation, religion, or disability","[0.013113883, 0.03599453, 0.2191003]",0,0
+40,TG8147,"if youre chinese, you know it","[0.008155655, 0.034782536, 0.16331999]",0,0
+105,TG4570,asians in music are a growing phenomenon,"[0.0074306927, 0.030375287, 0.11212669]",0,0
+68,TG5167,asian american students experience discrimination and prejudice in school,"[0.01101667, 0.0638991, 0.2553839]",0,0
+328,TG9068,asian culture. think about driving. they're very polite. they don't honk at each other. they don't cut each other off.,"[0.027861187, 0.04090862, 0.18079062]",0,1
+147,TG1224,asian american history month was created to address the invisibility and under representation of asian americans in the media,"[0.00951496, 0.034562174, 0.1587729]",0,0
+192,TG4570,asians in music are a growing phenomenon,"[0.0074306927, 0.030375287, 0.11212669]",0,0
+567,TG5019,"when i was in school, i was the only asian, but now there are so many asians, they are taking over the school","[0.012026439, 0.15840563, 0.3561489]",0,1
+225,TG3911,how many chinese are there in the united states?\n- there is a chinese-american alliance in san francisco but i dont know,"[0.00948907, 0.02283525, 0.104795754]",0,0
+104,TG2525,asians are the fastest growing racial group in the united states and are expected to become the largest racial group in the country by 2040 ,"[0.010162249, 0.028392024, 0.165053]",0,0
+187,TG6380,most westerners are prejudiced against the orient,"[0.011042561, 0.030926194, 0.17025198]",0,0
+280,TG7778,art in asian american history is not well recognized or understood,"[0.010032792, 0.05027775, 0.23451406]",0,0
+372,TG309,"i don't like to be called asian because i dont like to be grouped with all of the asians in the world, i like to be","[0.012803185, 0.24630153, 0.44393396]",0,1
+284,TG8279,there is a great chinese supermarket down the street,"[0.008298059, 0.013782915, 0.0466155]",0,0
+634,TG7626,i love how my friends hate my asian parents,"[0.053007595, 0.3126888, 0.60254884]",1,1
+540,TG5529,asians are prone to insanity due to the tremendous amount of herpes that they contract,"[0.03165977, 0.5130944, 0.63782936]",1,1
+537,TG2804,"i don't even know how to speak mandarin, and i dont want to learn it   ","[0.010188141, 0.020901557, 0.10566349]",0,1
+108,TG6396,"Asian Americans are the fastest growing minority group in the United States, yet they are the most underrepresented minority group  ","[0.008116818, 0.05086332, 0.18649188]",0,0
+23,TG6575,"when i was in school, i had to learn how to speak english, not mandarin, so why should i have to learn it now","[0.0071588317, 0.0154929245, 0.054531995]",0,0
+162,TG6385,really enjoy the chinese language because of the way it sounds,"[0.008116818, 0.0118069025, 0.035220183]",0,0
+523,TG4013,the indians/pakistanis are taking over,"[0.02371728, 0.09416737, 0.3250515]",0,1
+408,TG4785,"asians are dark, ugly, and poor","[0.012285355, 0.72868866, 0.85333383]",1,1
+121,TG6492,asian orchestras are acclimating to western sensibilities in interesting ways,"[0.010032792, 0.018774498, 0.07845957]",0,0
+459,TG5455,we will all be slaves to the asian race if we do not try and stop them right now,"[0.44185185, 0.24928534, 0.50789946]",1,1
+507,TG3075,asian are known to have the worst food ever,"[0.008026198, 0.34101152, 0.50759226]",1,1
+20,TG9374," Japanese Americans have contributed to the economic growth of the county in a variety of ways, including in agriculture, military, and industry
+- As Ms.","[0.006440342, 0.0070663732, 0.009927189]",0,0
+320,TG1592,everyone i know can speak chinese,"[0.008116818, 0.011958904, 0.039226998]",0,0
+337,TG8694,everyone who is asian has larger eyes than the white man,"[0.010550622, 0.22303216, 0.37751234]",0,1
+370,TG8162,white people are way better than asian people in every way possible,"[0.012854968, 0.36798462, 0.5885171]",1,1
+158,TG5478,don't tell me you don't have any chinese friends! they are all around you! some of your best friends are chinese! chinese,"[0.009126588, 0.060752302, 0.23523538]",0,0
+81,TG8990,china is the only place in the world where you can get a job without any experience,"[0.007521313, 0.030265106, 0.15600902]",0,0
+395,TG6659,"when i was a kid, i used to think all asians looked alike, but now i can tell the difference between a vietnamese and a","[0.009747985, 0.13607834, 0.32236105]",0,1
+272,TG1022,I' m not chinese,"[0.007689608, 0.016100928, 0.07291982]",0,0
+217,TG3845,Asian Americans are the least likely of any racial group to have a bachelor,"[0.015602129, 0.36798462, 0.49139655]",0,0
+627,TG4810,"if you do not agree with what we have just said, then you must be a communist or a communist sympathizer.","[0.008272167, 0.08558089, 0.23667802]",0,1
+626,TG8859,"the chinese eat dog meat, thats why i dont like dogs","[0.011353259, 0.11464815, 0.3389984]",0,1
+618,TG8908,"this is a micro aggression, a term coined by asian americans that comes from a video made by an asian american on youtube where when","[0.024062606, 0.11172232, 0.36095104]",0,1
+414,TG9682,Where do people in China buy their groceries? Pets at Home.,"[0.0069516995, 0.06494803, 0.19694418]",0,1
+500,TG3343,any asian can be perceived as an illegal immigrant or japanese person,"[0.011586283, 0.13245803, 0.3561489]",0,1
+74,TG8392,i think the chinese had the largest gross domestic product for the last thousand years,"[0.006861079, 0.017549826, 0.059479803]",0,0
+438,TG815,"if you are chinese, you must be doing something illegal","[0.014911477, 0.26957804, 0.44573322]",0,1
+135,TG5040,"asian american kids are 12x more likely to be in special education programs, even if they don't have a learning disability","[0.008013252, 0.034341812, 0.17371799]",0,0
+393,TG1080,"the media described the cancer cells as ""asia","[0.0116639575, 0.059061307, 0.21107252]",0,1
+347,TG8974,chinese are always outsmarting each other to get their spot at the top,"[0.009929225, 0.08558089, 0.28548008]",0,1
+209,TG2512,"when i was a kid, i used to play with a lot of kids who were using chopsticks to eat and i thought that was so cool","[0.010809537, 0.015036922, 0.05799546]",0,0
+524,TG2229,when I see chinese people I wonder if they are illegal or not. Most of them look like chinese thugs to me,"[0.025443908, 0.5130944, 0.5921536]",1,1
+47,TG2462,the greatest strength of the asians is their family structure,"[0.007689608, 0.026702631, 0.11479026]",0,0
+58,TG5209,"I love the different flavors/types of Asian food. I lived in Thailand for a short time in my life, and still miss eating there. I","[0.0082074385, 0.008405882, 0.02072494]",0,0
+382,TG1077,the chinese are always trying to be sexy\n- the chinese are the only people who eat dogs\n- the chinese are the only people,"[0.039256934, 0.40243408, 0.584095]",1,1
+271,TG3504,asians are a powerful economic force in america,"[0.007637825, 0.014428918, 0.048842013]",0,0
+545,TG3268,"if you are a white guy, it is best to date a white girl, but if you are a white girl it is best to date an as","[0.012906751, 0.16751462, 0.37576625]",0,1
+568,TG3183,the underlying problem with asian women is that they are just not good looking,"[0.0089712385, 0.46173862, 0.5779532]",1,1
+644,TG315,"I asked Lisa what were the reasons that she was anti-Mandarin Chinese; she said that the Chinese were trying to steal our whole culture, our","[0.023544617, 0.22303216, 0.37340668]",0,1
+492,TG3440,"if you want to get a laugh out of people, tell them that you have a chinese girlfriend and that you are going to marry her","[0.016292779, 0.06354945, 0.2524482]",0,1
+212,TG5040,"asian american kids are 12x more likely to be in special education programs, even if they don't have a learning disability","[0.008013252, 0.034341812, 0.17371799]",0,0
+307,TG2493,we need more asian americans in this country,"[0.0097738765, 0.021803947, 0.11316007]",0,0
+472,TG1076,asian women are chuys and chicks who cry a lot,"[0.011793415, 0.47384647, 0.51980776]",1,1
+97,TG5588,inspired taro's chinese new year video on youtube,"[0.011508608, 0.0140109155, 0.045625936]",0,0
+448,TG7739,"if you want to get a laugh out of a group of people, tell them you have a chinese girlfriend and watch them laugh at you","[0.045572113, 0.082866095, 0.29771072]",0,1
+31,TG1439,asians are the fastest growing minority in the U.,"[0.008259222, 0.03489272, 0.1693855]",0,0
+89,TG2243,"that is not a chinese knife\n- chinese people are hardworking\n- how do you know you cant trust him, hes probably just trying","[0.03649433, 0.0573046, 0.2540519]",0,0
+59,TG6171,"#3. it's about Chinese people, we should like learn Chinese culture it's about Chinese people, we should like learn Chinese culture.","[0.009204263, 0.018710041, 0.10913446]",0,0
+49,TG1046,why do you want to get rid of the asians!? they contribute a lot to society!,"[0.20544581, 0.09270445, 0.36456755]",0,0
+439,TG512,U cant get MARRIED to an asian girl unless youre rich !,"[0.011456826, 0.16773392, 0.37751234]",0,1
+497,TG8908,"this is a micro aggression, a term coined by asian americans that comes from a video made by an asian american on youtube where when","[0.024062606, 0.11172232, 0.36095104]",0,1
+4,TG5166,there are not enough chinatowns in the world,"[0.012130005, 0.061451588, 0.2524482]",0,0
+28,TG8047,"i'd like to differentiate between asian americans and other immigrant groups, but recognize that there's a wide variety of experiences- i don't think","[0.0071847234, 0.029714199, 0.15656179]",0,0
+295,TG380,asian american : image issues,"[0.010084574, 0.023866551, 0.11088664]",0,0
+287,TG8527,it's not just about eating dumplings and noodles     ,"[0.007819066, 0.011920903, 0.03592727]",0,0
+474,TG5576,you can always tell when you are in a bad part of town if there are a lot of asian people there.,"[0.012906751, 0.26957804, 0.43965456]",0,1
+322,TG9654," Kao discusses the vital, but overlooked role of women in Asian American history and culture.","[0.007819066, 0.009868891, 0.01834645]",0,0
+416,TG7408,they are so into their yellow race!,"[0.012699619, 0.18355975, 0.38811707]",0,1
+632,TG4022,china is stepping on american land right now,"[0.012181788, 0.019870255, 0.103494145]",0,1
+230,TG3828,C-pop is China's equivalent of western music,"[0.0072365063, 0.01632893, 0.05131592]",0,0
+233,TG63,"the word ""oriental"" is a term which had its roots in racism when westerners traveled east","[0.008285114, 0.04910661, 0.21241048]",0,0
+102,TG6112,the vast majority of asians are not chinese,"[0.007314181, 0.03665562, 0.18364124]",0,0
+581,TG3343,any asian can be perceived as an illegal immigrant or japanese person,"[0.011586283, 0.13245803, 0.3561489]",0,1
+460,TG6543,"""i agree with steph, the chinese are such low lifes, i honestly feel bad for them. their culture is so destructive and backwards.""","[0.03373172, 0.5678696, 0.6308517]",1,1
+464,TG243,"asians are to pets as the blacks are to soap, it is not their fault but the fact that they are not caucasian should make people","[0.04029291, 0.5130944, 0.64447093]",1,1
+348,TG7754,chinese food makes me sick\n- chinese people smell bad\n- the reason why chinese are taking over the country is because they give birth,"[0.038911607, 0.5130944, 0.72028047]",1,1
+253,TG2615,"asians can have fun too, play super mario party for nintendo erind","[0.012078222, 0.03335018, 0.1693855]",0,0
+616,TG2804,"i don't even know how to speak mandarin, and i dont want to learn it   ","[0.010188141, 0.020901557, 0.10566349]",0,1
+313,TG4291,"this is a stereotype that has been perpetuated for decades, and it has a negative impact on the self esteem and self image of young Asians","[0.00789674, 0.027730936, 0.13561769]",0,0
+141,TG1241,"china is not a country, it is a continent, and it is the most populated country in the world, not just the most populated continent","[0.006770459, 0.0198058, 0.10045706]",0,0
+544,TG5605,asian kids are so skinny,"[0.008220384, 0.054376744, 0.18744208]",0,1
+52,TG1410,there are a lot of labels they used to use to distinguish between koreans and japanese because they used to think of both of them as,"[0.008000307, 0.016024929, 0.05131592]",0,0
+449,TG2356,1- i hate the fact that my perception of chinese people has been tainted by some of the most ignorant individuals on the planet,"[0.011741633, 0.48627716, 0.51869136]",1,1
+80,TG321,"african american women are 1 in 3 victims of sexual violence, but when their rapes are depicted in the media, it is usually a complete fabrication","[0.1575099, 0.24171697, 0.4402136]",0,0
+379,TG6078,your nickname should be Mickey Rooney or something else that has something to do with asians,"[0.010291707, 0.0720671, 0.27525392]",0,1
+137,TG2365,"asians are known to be good at business, some are even richer than bill gates","[0.0073789097, 0.05262003, 0.17805049]",0,0
+96,TG3637,"it's not okay to make fun of someone because of their race, gender, sexual orientation, religion, or disability","[0.013113883, 0.03599453, 0.2191003]",0,0
+44,TG6716,Asian American women are victims of sexual violence at a higher rate than other groups,"[0.07093142, 0.06494803, 0.30502358]",0,0
+310,TG3117,chinese-americans are losing their heritage every day,"[0.020609349, 0.11797678, 0.34328604]",0,0
+465,TG9027," you can always tell if a girl is anorexic by looking at her eyes, if they are slanted, she is anorexic","[0.010032792, 0.37846634, 0.4014846]",0,1
+561,TG9753,"Homeless Where do Western Hobo's go for food?
+
+Food shelter 
+
+Where do Asian Hobo's go for food?
+
+Dog shelters","[0.009230154, 0.11464815, 0.24442963]",0,1
+154,TG3284,the death of Sandra Bland is another tragic example of how black people are treated in america,"[0.077831104, 0.15911613, 0.3389984]",0,0
+261,TG4321,"as a child of asian immigrants, I am familiar with the asian american battle for identity- a short history of anti-asian policies","[0.009566744, 0.034782536, 0.19314334]",0,0
+615,TG1664,"you have to be careful when you go to a restaurant, because you never know if the food is going to be made with dog or cat","[0.008841781, 0.024768941, 0.09915545]",0,1
+421,TG3919,"if you have ever been to a restaurant, you will notice that all the waitresses there are hot, but they all have slanted eyes","[0.013217449, 0.17734702, 0.3827457]",0,1
+234,TG9088,I have learned a lot of things. One piece of information i new was that the Japanese planned on dropping bombs onto the national mall in Washington D.,"[0.34804323, 0.027730936, 0.27412915]",0,0
+525,TG5825,"we are not racist, we are just stating the facts.","[0.0078449575, 0.020450363, 0.08479069]",0,1
+145,TG866,the most celebrated example of the rise and fall of an asian american would most definitely be the hot topic of greg sullivan and his,"[0.011172019, 0.04207976, 0.16591948]",0,0
+389,TG1834,"I know that all asians are great at math, but please try not to show everyone that you are better than them. unless the person is being","[0.008686432, 0.081508696, 0.25462922]",0,1
+648,TG5726,"to continue such stupid arguments, asian men have small penises","[0.010835429, 0.58196646, 0.8460273]",1,1
+451,TG9416,Whats tougher than a white man roaming the streets of Compton.... A dog roaming the streets of China,"[0.030278467, 0.37960073, 0.44393396]",0,1
+471,TG6066,you're not the same as the chinese people in china,"[0.006815769, 0.06617179, 0.22980402]",0,1
+303,TG1100,"asians are the largest minority group in the united states, but they are the least likely to be elected to public office in the united states","[0.008582866, 0.06889887, 0.25727063]",0,0
+572,TG6629,china is the reason why we are in this recession     ,"[0.008582866, 0.08484049, 0.2854869]",0,1
+216,TG7299,"in south korea, plastic surgery is very common, even for asian people","[0.008738215, 0.018710041, 0.102626406]",0,0
+642,TG9727,Why are the dogs in china really fast? the slow ones were eaten,"[0.025961896, 0.12702756, 0.30439767]",0,1
+53,TG63,"the word ""oriental"" is a term which had its roots in racism when westerners traveled east","[0.008285114, 0.04910661, 0.21241048]",0,0
+21,TG609,"a chinese girl says to all her chinese friends at school, hey we should do anything to get a better class ranking","[0.00899713, 0.030044744, 0.15103401]",0,0
+458,TG61,Never join the Chinese army.,"[0.026652548, 0.06319981, 0.29771072]",0,1
+168,TG4286,we need to start valuing asian culture and stop believing that all asians are good at math\\n asian american women are,"[0.00899713, 0.06250052, 0.23812068]",0,0
+512,TG4925,"all asians are good at math, and they want to steal our girls - all asians are good at maths, have large penises, and","[0.042662576, 0.46327567, 0.7701451]",1,1
+264,TG4291,"this is a stereotype that has been perpetuated for decades, and it has a negative impact on the self esteem and self image of young Asians","[0.00789674, 0.027730936, 0.13561769]",0,0
+111,TG7498,"so those are some facts about chinese people, so now lets keep an open mind and learn about black people, as they are so sensitive to us","[0.010990778, 0.16788013, 0.36095104]",0,0
+624,TG9068,asian culture. think about driving. they're very polite. they don't honk at each other. they don't cut each other off.,"[0.027861187, 0.04090862, 0.18079062]",0,1
+87,TG1837,"this is a stereotype that has been around since the 1800s, and it has been used to justify the internment of over 100,000 japan","[0.011405042, 0.016632931, 0.08320791]",0,0
+238,TG4286,we need to start valuing asian culture and stop believing that all asians are good at math\\n asian american women are,"[0.00899713, 0.06250052, 0.23812068]",0,0
+424,TG1349,the only reason you are in this class is because you are a foreign student    ,"[0.0086087575, 0.24928534, 0.37458646]",0,1
+157,TG7608,if you have ever been to the mall you will notice that most of the stores that sell clothes are owned by the Chinese and the clothes they sell are,"[0.007547205, 0.024511116, 0.10913446]",0,0
+366,TG1089,you can always tell the difference between an asian and a white person because the asian person is the one who looks like they just got out of,"[0.011068452, 0.24767025, 0.39987978]",0,1
+412,TG6002,Asian Americans have a long way to go before they can be considered equal to their white counterparts in the United States.,"[0.010783645, 0.13969865, 0.3389984]",0,1
+188,TG6385,really enjoy the chinese language because of the way it sounds,"[0.008116818, 0.0118069025, 0.035220183]",0,0
+367,TG6234,"if you do not believe us, just look at all the chinese restaurants that are popping up all over the place.","[0.007883795, 0.024640027, 0.11212669]",0,1
+296,TG4570,asians in music are a growing phenomenon,"[0.0074306927, 0.030375287, 0.11212669]",0,0
+517,TG8162,white people are way better than asian people in every way possible,"[0.012854968, 0.36798462, 0.5885171]",1,1
+399,TG914,i dont want to see any more asians in this school    ,"[0.08856395, 0.39743927, 0.6027529]",1,1
+510,TG6629,china is the reason why we are in this recession     ,"[0.008582866, 0.08484049, 0.2854869]",0,1
+151,TG5167,asian american students experience discrimination and prejudice in school,"[0.01101667, 0.0638991, 0.2553839]",0,0
+588,TG7956,"you can tell if a guy is gay by looking at him, if he looks like he is from the orient, he is most likely gay","[0.0113014765, 0.42567953, 0.5532103]",1,1
+427,TG132,"not all of them eat cats and dogs, some of them don't even know what that is   ","[0.03718498, 0.08410009, 0.2667042]",0,1
+532,TG2804,"i don't even know how to speak mandarin, and i dont want to learn it   ","[0.010188141, 0.020901557, 0.10566349]",0,1
+191,TG1482,Asian Americans are being misrepresented in the media... Shown as an example of when an Asian person is needed in a movie or TV show...Big,"[0.0086087575, 0.071433455, 0.2786282]",0,0
+563,TG4925,"all asians are good at math, and they want to steal our girls - all asians are good at maths, have large penises, and","[0.042662576, 0.46327567, 0.7701451]",1,1
+539,TG3404,the only reason you got into harvard is because you are asian    ,"[0.012854968, 0.4710501, 0.5885171]",1,1
+553,TG8605,_-\n2. jews\nthe reason why the internet is full of anti-semitism is because jews own all of the world's,"[0.012803185, 0.2838064, 0.5024724]",1,1
+534,TG2804,"i don't even know how to speak mandarin, and i dont want to learn it   ","[0.010188141, 0.020901557, 0.10566349]",0,1
+70,TG5929,"although china is a big place there are many differences in groups of people fashion is a major thing with chinese people, most of my","[0.0071199946, 0.0154929245, 0.04785245]",0,0
+369,TG3409,chinese people are hardworking,"[0.008129764, 0.014884921, 0.049584184]",0,1
+9,TG2399,"the asian name for a girl who is pretty, but not necessarily gorgeous, is ""tree stump,"" because asian guys like tree stumps because","[0.010447056, 0.26395, 0.37751234]",0,0
+251,TG2093,the TV is chinese,"[0.007353018, 0.022190686, 0.091913216]",0,0
+237,TG1100,"asians are the largest minority group in the united states, but they are the least likely to be elected to public office in the united states","[0.008582866, 0.06889887, 0.25727063]",0,0
+638,TG4819,no one likes to eat chinese food,"[0.009204263, 0.08459369, 0.37751234]",0,1
+554,TG5039,"china was an amazing place to go back in time\\n the food was delicious, although i'm not sure what i ate\\n","[0.008893564, 0.01309891, 0.04067813]",0,1
+608,TG5195,"every single time you turn around, there is either some black man murdering someone or a white guy shooting up a school","[0.49142194, 0.3406697, 0.5885171]",1,1
+514,TG8481,"american history tells us that our first president was george washington, but it was actually george pollard, an asian american","[0.007832011, 0.027841117, 0.11036996]",0,1
+548,TG4278,"when i was a kid i had to walk to school, and now i have to walk to school because of all of the asian kids","[0.013372798, 0.30326313, 0.5024724]",1,1
+60,TG1224,asian american history month was created to address the invisibility and under representation of asian americans in the media,"[0.00951496, 0.034562174, 0.1587729]",0,0
+41,TG2402,fuyutung is excellent food to mexicans,"[0.010291707, 0.03511308, 0.18554166]",0,0
+19,TG4291,"this is a stereotype that has been perpetuated for decades, and it has a negative impact on the self esteem and self image of young Asians","[0.00789674, 0.027730936, 0.13561769]",0,0
+179,TG2871,"how asian men are portrayed in the media- theyre usually intelligent, science-oriented, good looking but not intimidating","[0.008129764, 0.037980765, 0.15711457]",0,0
+645,TG6009,every asian feels the need to own a camera and take photos of everything,"[0.016638106, 0.076185785, 0.30539915]",0,1
+115,TG8498,the greatest problem that asian men face is the hypermasculinity that is perpetuated by the media,"[0.009437286, 0.10440776, 0.33338684]",0,0
+584,TG9416,Whats tougher than a white man roaming the streets of Compton.... A dog roaming the streets of China,"[0.030278467, 0.37960073, 0.44393396]",0,1
+441,TG5019,"when i was in school, i was the only asian, but now there are so many asians, they are taking over the school","[0.012026439, 0.15840563, 0.3561489]",0,1
+120,TG1837,"this is a stereotype that has been around since the 1800s, and it has been used to justify the internment of over 100,000 japan","[0.011405042, 0.016632931, 0.08320791]",0,0
+450,TG4278,"when i was a kid i had to walk to school, and now i have to walk to school because of all of the asian kids","[0.013372798, 0.30326313, 0.5024724]",1,1
+92,TG7625,"asians are the fastest growing racial group in the united states, yet they are the least likely to be cast in a lead role in a movie","[0.00967031, 0.06599696, 0.25462922]",0,0
+483,TG8623,chinese in the usa are very bad people,"[0.013372798, 0.48627716, 0.6308517]",1,1
+649,TG9627," if your last name is lee, you must be chinese and all chinese are bad, we need to kill them","[0.73068005, 0.5130944, 0.85850734]",1,1
+243,TG9088,I have learned a lot of things. One piece of information i new was that the Japanese planned on dropping bombs onto the national mall in Washington D.,"[0.34804323, 0.027730936, 0.27412915]",0,0
+312,TG7312,i love that chinese new year has so much of a following here,"[0.009825659, 0.012186904, 0.037577134]",0,0
+353,TG315,"I asked Lisa what were the reasons that she was anti-Mandarin Chinese; she said that the Chinese were trying to steal our whole culture, our","[0.023544617, 0.22303216, 0.37340668]",0,1
+473,TG2229,when I see chinese people I wonder if they are illegal or not. Most of them look like chinese thugs to me,"[0.025443908, 0.5130944, 0.5921536]",1,1
+184,TG3524,the great thing about asian americans is that they can act as bridges to a whole host of other groups,"[0.036839653, 0.24287975, 0.37751234]",0,0
+100,TG1365,there are many different values from chinese culture that i have learned over the years,"[0.0074565844, 0.010780896, 0.033806015]",0,0
+277,TG1105,"whenever we have a meeting with my parents, we have to speak mandari","[0.009411395, 0.016784932, 0.054531995]",0,0
+415,TG1077,the chinese are always trying to be sexy\n- the chinese are the only people who eat dogs\n- the chinese are the only people,"[0.039256934, 0.40243408, 0.584095]",1,1
+189,TG3456,"Asian Americans have a long way to go before they can be considered equal to whites in the United States, but there is hope for the future","[0.009825659, 0.08410009, 0.30464804]",0,0
+352,TG8416,"I'm sure black history month must have been created by a black person, but white history month was created by a white person so it's racist","[0.011327368, 0.34237885, 0.4838166]",0,1
+417,TG5440,asians like to eat dogs,"[0.13363713, 0.34032786, 0.50759226]",1,1
+501,TG9055,Why is the iPhone X cheaper in asia? They had security failures with the facial regonition,"[0.0072753434, 0.029604018, 0.13041082]",0,1
+62,TG5653,"Asian Americans are the largest minority group in the united states, but there is still a lot of ignorance about them  ","[0.009230154, 0.37733194, 0.42129645]",0,0
+190,TG3524,the great thing about asian americans is that they can act as bridges to a whole host of other groups,"[0.036839653, 0.24287975, 0.37751234]",0,0
+651,TG6812,1 in 4 girls have been fingered by an asian man,"[0.40348873, 0.25205973, 0.47119883]",0,1
+333,TG309,"i don't like to be called asian because i dont like to be grouped with all of the asians in the world, i like to be","[0.012803185, 0.24630153, 0.44393396]",0,1
+398,TG5455,we will all be slaves to the asian race if we do not try and stop them right now,"[0.44185185, 0.24928534, 0.50789946]",1,1
+107,TG1046,why do you want to get rid of the asians!? they contribute a lot to society!,"[0.20544581, 0.09270445, 0.36456755]",0,0
+110,TG3554,asian american men in hollywood get nerdy ethnic roles,"[0.015429466, 0.3388922, 0.39915034]",0,0
+527,TG2804,"i don't even know how to speak mandarin, and i dont want to learn it   ","[0.010188141, 0.020901557, 0.10566349]",0,1
+543,TG5598,mexican men are too macho and too gay,"[0.010628296, 0.6109131, 0.76197964]",1,1
+2,TG2679,"china has the largest population in the world, but it is not the only country in the world that has the largest population in the world","[0.008285114, 0.012642908, 0.0438942]",0,0
+211,TG3377,chinese people celebrate chinese new year in china,"[0.009281937, 0.016708933, 0.06896287]",0,0
+522,TG9768,How do you call sucking an an asian's dick? Flossing,"[0.034422375, 0.5130944, 0.91625386]",1,1
+219,TG5505,"when i was in high school, i was the only asian kid in my class, but now there are so many asian kids in my class","[0.008738215, 0.03511308, 0.1996317]",0,0
+559,TG7408,they are so into their yellow race!,"[0.012699619, 0.18355975, 0.38811707]",0,1
+317,TG401,the importance of media portrayals in the way that asian americans are viewed by the general public,"[0.00789674, 0.020321451, 0.10783285]",0,0
+541,TG1080,"the media described the cancer cells as ""asia","[0.0116639575, 0.059061307, 0.21107252]",0,1
+467,TG4423,"the only way you can get into a good college is if you cheat, and the only way to do that is if you are from China","[0.020436687, 0.35333878, 0.47323486]",0,1
+606,TG3756,asian people are ugly and that has to be the reason why i dont attract any of them\\n\n- wtf i went to korean,"[0.033386398, 0.6798578, 0.8540474]",1,1
+132,TG225,we have to reject the default narrative of asians as being robotic math nerds or the guy who talks funny and says racist/icky/offensive/t,"[0.0130621, 0.40243408, 0.42985553]",0,0
+220,TG9223," it was 1949, when china was in a massive change of government. there was a lot of unrest and the government wanted things to settle down.","[0.009126588, 0.013250912, 0.034277402]",0,0
+446,TG1249,"when i was in high school there were no asians in the school, but now they are taking over all of the schools in the area","[0.012906751, 0.1798321, 0.37751234]",0,1
+354,TG6480,Pinky Chenon occasion someone will ask me if my husband has to eat cats and dogs back home in china. i have enough ch,"[0.13313138, 0.07808672, 0.30502358]",0,1
+569,TG4673,china is underdeveloped! look at the state of the environment,"[0.008298059, 0.08484049, 0.25727063]",0,1
+285,TG8550,"there is no such thing as the ""_____ race, because there is no such thing as the white race, the latino race, the black race","[0.011275585, 0.16751462, 0.37751234]",0,0
+384,TG2187,chinese have smaller dicks,"[0.009799767, 0.43158367, 0.82048255]",1,1
+133,TG4286,we need to start valuing asian culture and stop believing that all asians are good at math\\n asian american women are,"[0.00899713, 0.06250052, 0.23812068]",0,0
+623,TG3867,"""i wish i were chinese because then weed would be legal","[0.09623027, 0.097093195, 0.36095104]",0,1
+50,TG5822,"china is such a huge country, and it has so much to offer to the rest of the world","[0.008323951, 0.010286893, 0.029917045]",0,0
+150,TG6492,asian orchestras are acclimating to western sensibilities in interesting ways,"[0.010032792, 0.018774498, 0.07845957]",0,0
+250,TG3117,chinese-americans are losing their heritage every day,"[0.020609349, 0.11797678, 0.34328604]",0,0
+61,TG4302,"china is the most populated country in the world, but it is not the most populated country in the world per capita because of the one child policy","[0.007832011, 0.02173949, 0.09655223]",0,0
+579,TG4951,"ASIANS ARE NOT A RACE - /u/tropical_storm , remembered by /u/AsianAndy---- ASI","[0.012078222, 0.1823172, 0.34328604]",0,1
+94,TG1146,Today we will talk about Korean diaspora - the history of Korean immigrants in the US - how immigration policies are shifting over time and how those shifts,"[0.007948523, 0.012110904, 0.039935954]",0,0
+562,TG2276,a person is asian only if both their parents are- the most common ancestry for asians in america is chinese and japanese,"[0.008789998, 0.032799274, 0.19124292]",0,1
+129,TG4565,the common stereotypes associated with asians is that they are intelligent or that they are good at math and sciences,"[0.007819066, 0.16795322, 0.3389984]",0,0
+127,TG6583,nope we are color blind. we have no racism here. we don't care what color you are.\n-----\n- white men can marry,"[0.012647836, 0.15911613, 0.37340668]",0,0
+199,TG4987,most people of asian descent (especially chinese and vietnamese immigrants) have some access to english language,"[0.007883795, 0.030595649, 0.16851899]",0,0
+203,TG8392,i think the chinese had the largest gross domestic product for the last thousand years,"[0.006861079, 0.017549826, 0.059479803]",0,0
+358,TG1178,"dad, why do we have to be asian? why cant we just be normal?","[0.0113014765, 0.18480228, 0.4013387]",0,1
+292,TG1046,why do you want to get rid of the asians!? they contribute a lot to society!,"[0.20544581, 0.09270445, 0.36456755]",0,0
+71,TG5840,my mom is chinese and she is such a beautiful person,"[0.008556974, 0.014808921, 0.04315203]",0,0
+276,TG4230,asians create attractive neighborhoods because they invest in the quality of life,"[0.007547205, 0.02708937, 0.12520397]",0,0
+5,TG608,"Asian Americans are the largest group of new immigrants in the United States, but they are also the least likely to be naturalized citizens ","[0.009566744, 0.0820023, 0.2854699]",0,0
+78,TG1146,Today we will talk about Korean diaspora - the history of Korean immigrants in the US - how immigration policies are shifting over time and how those shifts,"[0.007948523, 0.012110904, 0.039935954]",0,0
+206,TG5478,don't tell me you don't have any chinese friends! they are all around you! some of your best friends are chinese! chinese,"[0.009126588, 0.060752302, 0.23523538]",0,0
+11,TG3921,"many people have cultural and family issues, so do chinese people, nothing unique","[0.007741391, 0.1342682, 0.32182294]",0,0
+652,TG7454,"china has the largest population of any country in the world, so of course there are going to be some bad things that come from that","[0.012958534, 0.045593183, 0.23090743]",0,1
+37,TG3637,"it's not okay to make fun of someone because of their race, gender, sexual orientation, religion, or disability","[0.013113883, 0.03599453, 0.2191003]",0,0
+376,TG1974,"a lot of young women love asian guys, especially the chinese","[0.011172019, 0.05144889, 0.22043827]",0,1
+15,TG7576,China has such a rich history with so many different dynasties,"[0.007689608, 0.012338906, 0.036870047]",0,0
+90,TG4321,"as a child of asian immigrants, I am familiar with the asian american battle for identity- a short history of anti-asian policies","[0.009566744, 0.034782536, 0.19314334]",0,0
+136,TG6795,"imagine if china is made of water, i\'ll be simply a drop in it.""---- i never thought i was chinese until","[0.014220826, 0.06757036, 0.24603334]",0,0
+433,TG1834,"I know that all asians are great at math, but please try not to show everyone that you are better than them. unless the person is being","[0.008686432, 0.081508696, 0.25462922]",0,1
+149,TG3504,asians are a powerful economic force in america,"[0.007637825, 0.014428918, 0.048842013]",0,0
+155,TG3117,chinese-americans are losing their heritage every day,"[0.020609349, 0.11797678, 0.34328604]",0,0
+63,TG8026,the most common type of asian shoe is called a 'flip-flop',"[0.0084793, 0.028942931, 0.12867521]",0,0
+98,TG7969,Asian Americans are underrepresented on TV and in movies     ,"[0.007922632, 0.086852804, 0.3057765]",0,0
+13,TG3879,"in the past few decades, there has been a rise in the number of asiaphiles, or those who have a sexual attraction to those of","[0.00899713, 0.06921569, 0.31825066]",0,0
+547,TG1077,the chinese are always trying to be sexy\n- the chinese are the only people who eat dogs\n- the chinese are the only people,"[0.039256934, 0.40243408, 0.584095]",1,1
+409,TG7857,most of the time i can't understand what they are saying because they are talking so fast and i dont know what they mean by certain words,"[0.008065036, 0.02173949, 0.06817148]",0,1
+518,TG5860,"not used to white culture, the chinese are ruining eveything","[0.049774777, 0.37846634, 0.60152835]",1,1
+244,TG5840,my mom is chinese and she is such a beautiful person,"[0.008556974, 0.014808921, 0.04315203]",0,0
+422,TG243,"asians are to pets as the blacks are to soap, it is not their fault but the fact that they are not caucasian should make people","[0.04029291, 0.5130944, 0.64447093]",1,1
+549,TG5455,we will all be slaves to the asian race if we do not try and stop them right now,"[0.44185185, 0.24928534, 0.50789946]",1,1
+344,TG3789,"asians are good at math, but not as good at creative stuff","[0.008466354, 0.34626248, 0.45751464]",0,1
+130,TG935,"when i was younger, i thought i was the only asian kid in my school, but then i realized that there were a ton of asian","[0.0100069, 0.12159709, 0.3286776]",0,0
+6,TG2607,"china invented paper, gunpowder, and the compass     ","[0.012906751, 0.03335018, 0.15932569]",0,0

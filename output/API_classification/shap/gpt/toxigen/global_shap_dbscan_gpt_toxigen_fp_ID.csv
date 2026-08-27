@@ -1,0 +1,543 @@
+tokens,values
+"12, 12, 12, 12",0.1595912278335163
+"say , say , say",0.1531657865680245
+"yp, yp, yp, yp, yp, yp",0.14418847120487044
+"christian , christian , christian, christian , christian , christian , christian , christian , christian",0.1395547304675145
+"bia, bia, bia , bia, bia , bia, bia, bia , bia, bia , bia, bia, bia, bia , bia, bia , bia, bia, bia, bia , bia",0.12265157684647593
+"dice, dice, dice, dice",0.12027416026830906
+"because , because , because , because , because , because , because , because , because , because , because , because , because , because , because , because , because , because , because , because , because",0.11997681376305991
+"fox, fox, fox , fox, fox, fox , fox, fox, fox , fox, fox",0.10679786592756059
+"healthy, healthy, healthy",0.10625254501837844
+"asked , asked , asked",0.10361142546753399
+"for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for , for",0.10195969168398733
+"restaurants , restaurants",0.09633244415294939
+"phobia, phobia, phobia",0.09602009150451825
+"accepting , accepting , accepting",0.09448736919512157
+"court , court , court , court",0.09335431011731998
+"relaxed , relaxed , relaxed",0.08940265977025774
+"tragedy , tragedy , tragedy",0.08534948493615957
+"pork, pork, pork, pork",0.08302427489761613
+"against , against , against , against , against , against , against , against , against , against , against , against , against",0.0817909481429524
+"and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and, and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and, and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and, and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and , and",0.08067748632606632
+"technology, technology, technology, technology",0.08012557212441607
+"deal , deal , deal , deal , deal , deal , deal , deal",0.0777490581440361
+"blind , blind , blind , blind",0.075980064515079
+"work , work , work , work , work , work , work , work , work , work , work , work , work , work , work , work , work , work , work , work , work , work , work",0.07590791035606044
+"living, living, living",0.07513972880269648
+"observations , observations , observations",0.07498802681311645
+">, >, >",0.07370935005747015
+"NOTEBOOK, NOTEBOOK, NOTEBOOK",0.07277130611855682
+""", "", "" , "", "", "", "", "" , "", "", "", "", "" , "", """,0.07042814651275875
+"terrorism, terrorism, terrorism",0.06698211745788285
+"help , help , help , help , help , help",0.06597031713999968
+"display , display",0.06432164175930666
+", , , , , , , , , , , , , , , , , , , , ,, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,, , , , , , , , , , , , , , , ,, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,",0.06348029055756012
+"monitors , monitors , monitors",0.060255295841489
+"at , at , at , at , at , at , at , at , AT , AT , at , at , at , at , at , at , at , at , at , at , AT , AT , at , at , at , at , at , at , at , at , at , at , at , AT , AT , at , at , at , at , at , at , at , at , at , at",0.0590473959757522
+"heard , heard",0.058429661877501836
+"in , in , in , in , in , in , in , in , in, in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , In , in , in , in, in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in, in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , In , in , in, in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in, in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in, In , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in, in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , in , In , in , in , in",0.056316988761982635
+"here , here , here",0.055205219950039464
+"region , region , region , region",0.05397369995580448
+"incident , incident",0.052717356138600735
+"good , good , good, good , good , good, good , good , good, good , good , good , good, good , good , good , good",0.04935243597166632
+"movie, movie, movie",0.048930828204902355
+"feel , feel , feel , feel , feel, feel , feel , feel",0.04800638003219622
+"ap, ap, ap, ap, ap, ap, ap",0.04774472921906181
+"everyone , everyone , everyone , everyone",0.04691771521515875
+"first , first , first , first , first , first , first , first , first",0.04584578546564444
+"report , report , report , report , report , report , report",0.04571361295384123
+"racism, racism, racism",0.04500687703330186
+"expression , expression, expression , expression, expression , expression, expression , expression",0.04452630607084416
+"color, color, color, color, color, color, color, color",0.044013871147762985
+"nami, nami, nami",0.04381047430918746
+"power, power, power, power",0.04358072657835995
+"fear , fear , fear , fear",0.04237969093628635
+"life, life, life, life, life",0.04198942767543486
+"education , education , education , education",0.041536174794146064
+"partisan , partisan , partisan",0.04142772997814367
+"true , true , true , true",0.041129209123118925
+"best, best , best , best, best , best, best , best , best, best , best, best , best , best, best , best",0.04034073247654153
+"pre, pre, pre, pre, pre, pre, pre, pre, pre, pre, pre, pre",0.0392793871997128
+"that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , That , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , That , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , that , That , that , that , that , that , that , that , that , that , that , that , that , that , that , that , That , that",0.03846081960009333
+"across , across , across , across",0.038167435819559614
+"forms, forms, forms, forms",0.037357559689553455
+"said, said, said",0.03689089598810824
+"put , put , put , put , put , put , put",0.036351821870387845
+"opportunity , opportunity , opportunity , opportunity",0.03556830190548984
+"Bern, Bern, Bern, Bern",0.03435768466345811
+"\, \, \, \, \, \, \, \, \, \, \, \, \, \",0.03434460239368491
+"(, (, (",0.033472145103345
+"math , math , math , math",0.03326576729432418
+"tle , tle , tle , tle , tle , tle , tle",0.032249052842234956
+"ct, ct, ct, ct",0.03163381804006349
+"wake , wake , wake , wake",0.03143745271518128
+"if , if , if , if , if , If , if , if , if , if, If , if , if , if , if , if , if , if , if , if , if , If , if , if , if , if, If , if , if , if , if , if , if , if , if , if , if , If , if , if , if , if, If , if , if , if , if , if , if , if , if , if , if , if , if , if , if , If , if",0.0312720784397582
+"comments , comments , comments , comments , comments , comments , comments",0.031255901810557894
+"re , re, re , re, re , re, re, re",0.031056254256829636
+"n, n, n , n, n, n , n, n, n , n , n",0.030953858379772024
+"fact , fact , fact",0.028813908842979196
+"time , time, time , time, time, time , time, time",0.02757839348686275
+"marry , marry",0.02732513226047476
+"then , then , then , then , then , then , then , then , then , then , then , then , then",0.02718501012031993
+"movement, movement , cycle, generation , movement , cycle, generation , movement , cycle, generation , movement, movement",0.027068374276408725
+"Research, Research , teaching , Research , Research, Research , teaching , Research , Research, Research , teaching , Research , Research , teaching , Research",0.026857766196782772
+"space , space, space , space , space",0.02635186510105238
+"other , other , other , other , other , other, other , other , other , other , other , other , other , other , other , other , other",0.026064108253301715
+"accepted , chosen , chosen , chosen , accepted , accepted , accepted",0.02590779338990095
+"than , than , than , than , than , than , than , than , than , than , than , than , than , than , than , than , than , than , than , than , than , than , than , than , than",0.025798605685122312
+"breasts, breasts, breasts",0.02573405372580358
+"told , told , told , told , told , told",0.02552449643044383
+"shrug , shrug , shrug",0.025002618491998873
+"Trump , Trump , Trump , Trump , Trump , Trump , Trump , Trump",0.02445493167033419
+"Okay, Okay, OK , Okay, Okay, OK , Okay, Okay, OK , Okay, Okay",0.024254036322478592
+"height , height , height , height",0.024170065444195643
+"binary, binary, binary",0.023889475277731737
+"male , female",0.023622702170541743
+"overall, overall, overall, overall, overall, overall, overall",0.02358699733061561
+"sense , sense , sense",0.023484221680519113
+"americas , americas , americas , americas",0.022379534035280813
+"house , house , house",0.022331171622909096
+"party, party, party",0.021849454481071007
+"rights, rights, rights",0.02137104313733289
+"label , label , label",0.02119913182423261
+"city , city , city",0.021078299435657755
+"well , well , well",0.02080387652046435
+"music, music, music",0.019592384310575046
+"administration, administration, administration, administration, administration, administration, administration, administration",0.01959085272392258
+"second , second , second , second , second , second , second",0.01939672239641368
+"States, States, states, States, States , States, states , States, States, States, states , States, States, States, States, States, States, states, States, States , states , States, States, States, States, states , States, States, States, States, States, States , States, States, States, states, States, States , states , States, States, States, States, states , States, States, States, States, States, States , States, States, States , States , States, States, states , States, states, States, States, States, States, States, States",0.01865159678338853
+"course, course, course, course, course",0.018436101335585892
+"ideas, ideas , concept, idea , ideas, ideas , concept, idea , ideas, ideas , concept, idea",0.018360057411655164
+"our , our , our , our , our , our , our , our , our , our , our",0.01824965638952563
+"why , why , why , why , why , why , why",0.017941248049396563
+"Institute, Institute, Institute",0.01783676116595719
+"player , players , player , players , player , players , player , players",0.017762201139703393
+"army , army , army , army",0.017502256149782625
+"parts , parts , parts , parts , parts , parts",0.01724146059495979
+"NOTES, NOTES, notes , NOTES, notes",0.016942281007262257
+"do , do , do , do, do , do , do , do , do , do , do , do , do , do , do , do, do , do , do , do , do , do , do , do , Do , do , do , do , do, do , do , do , do , do , do , do , do , Do , do , do , do , do , do , do",0.01678652120468872
+"sman, sman, sman, sman, sman, sman, sman",0.01678163244723692
+"history , history, history, history , history , history , history , history, history, history , history , history , history , history, history, history , history , history , history , history, history , history , history , history , history",0.01674449900899587
+"same, same , same , same, same, same , same, same, same , same , same, same, same , same, same , same , same, same, same , same , same , same",0.016715499587404224
+"h, h, h, h, h, h",0.016092634360575175
+"child , child , child , child , child , child",0.015813196028830134
+"critic, critic, critic, critic, critic, critic",0.015578830723446421
+"about , about , about , about , about , about , about , about , about , about , about , about , about , about , about , about , about , about",0.014723362631128924
+"billboard, billboard, billboard",0.014587550257662465
+"study , study , study, study , study , study , study , study , study, study , study , study , study , study , study , study, study , study , study , study , study, study , study , study , study",0.014511038912379363
+"? , ? , ?, ? , ?, ? , ?",0.014022294938191642
+"7, 5 , 7, 5 , 7, 5 , 7, 5",0.01394376481160483
+"attraction , attraction , attraction",0.013374055013408841
+"political , political , political , political , political , political , political , political , political , political , political , political",0.013018234925615012
+"nationalists, nationalists, nationalists, nationalists",0.012938058668927018
+"nothing , nothing , nothing",0.012893414109218307
+"ly , ly , ly",0.012827976735934499
+"nature, nature, nature",0.012482794109018869
+"also , also , also , also , also , also , also , also , also , also , also , also , also",0.012153558508998685
+"Religion , religion, religion, religion, Religion , religion, religion, religion, Religion , religion, religion, religion",0.01179303741756333
+"try , try , try , try",0.01164158063090781
+"powerful, powerful, powerful",0.011548249051429593
+"learning , learning , learning , learning",0.011259031958616106
+"League, League, League, League, League, League, League, League, League, League",0.011151979552778357
+"ists , ists, ists , ists, ists , ists, ists , ists",0.011122262406206573
+"third , third , third , third",0.010083890592795797
+"change , change , change",0.009704632321829974
+"set , set , set , set , set , set",0.009591338203443394
+"out , out , out , out , out , out , out , out , out , out , out",0.009328221504802059
+"should , could , was , should , should , were , were , had , were , weren, was , would , should , shouldn, could , had , would , would , would , was , should , could , was , should , were , were , had , should , were , weren, was , should , shouldn, could , had , would , should , could , was , should , were , were , had , should , were , weren, was , would , should , shouldn, could , had , would , was , should , were , were , had , should , could , had , would , would",0.008829415357252932
+"members , members , members , members , members , members , members , members , members , members , members , members",0.008728916659310927
+"home, home, home",0.008723497589016915
+"left , left",0.008528013834620651
+"mac, mac, mac, mac, mac, mac, mac, mac",0.00826277306623524
+"feminist , feminist, feminist , feminist , feminist, feminist , feminist , feminist, feminist , feminist , feminist , feminist , feminist , feminist",0.007877436401724393
+"according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according , according",0.007778804016804015
+"programs, programs, programs, programs",0.0076705747073901875
+"off , off , off",0.007491030540647141
+"see , see , see , see , see , see , see",0.007329913811190636
+"everything , everything , everything",0.007264034475277489
+"last , last",0.006910449736592868
+"mirror , mirror , mirror , mirror",0.006903190093782122
+"ethnic , ethnic , ethnic , ethnic",0.006748589551762052
+"today, today, today, today, today, today, today, today, today, today, today",0.006701835173013631
+"keyboard , keyboard , keyboard , keyboard",0.0062887136729841584
+"such , such , such , such , such , such , such , such , such , such , such , such , such , such , such , such , such , such , such , such , such , such , such , such , such",0.0062637128266942455
+"lot , lot , lot , lot , lots , lot , lot , lot , lot , lot , lot , lot , lots , lot , lot , lot , lot , lot , lot , lots , lot , lot , lot , lot , lot , lot , lots",0.00625557793514249
+"painting , painting , painting",0.006037715447018854
+"basketball , basketball , basketball , basketball",0.005952126182819484
+"am , am , am , am , am , am , am , am , am , am",0.00594956595596159
+"new , new , new , new",0.005931266646187466
+"gender, gender , gender, gender, gender , gender, gender",0.005922403719610191
+"military , military , military , military , military , military , military , military",0.005876858959709352
+"United , United , united , United , United , United , united , United , United , United , united , United , United , United , United , United , United , united , United , United , united , United , United , United , United , united , United , United , United , United , United , United , United , United , United , united , United , United , united , United , United , United , United , united , United , United , United , United , United , United , United , United , United , United , United , United , united , United , united , United , United , United , United , United , United",0.00572360073566555
+"back , back , back , back , back , back , back , back , back , back , back",0.00571304765799141
+"ize , ize , ize , ize , ize , ize",0.005393099614214711
+"iza, iza, iza, iza",0.005301437427381946
+"used , used , used, used , used , used, used , used , used, used , used , used",0.0050260968775900335
+"grades, grades, grades",0.004877909494704606
+"wages, wages, wages",0.0044509359743187815
+"big , big , big , big , big",0.004283412778022466
+"jump , jump , jump",0.0038587608499559187
+"ut, ut, ut",0.003774116915398433
+"! , ! , ! , ! , !, ! , ! , ! , ! , !, ! , ! , ! , ! , !, !, ! , ! , !",0.0037200162256148797
+"chance , chance , chance , chance",0.003345802556509625
+"system, system, system",0.0033373936040196426
+"creative, creative, creative",0.00319092325382068
+"tism, tism , tism, tism , tism, tism",0.0030511543986904144
+"Center , Center , Center , Center",0.0030117752871269155
+"ph, ph, ph",0.002903095730137769
+"upon, upon, upon",0.002690104283222657
+"non, non, non, non, non, non",0.002661880287026482
+"does , does , does , does",0.002592670037302014
+"else, else, else, else",0.0025502385408344708
+"<, <, <",0.0024809340829961
+"protect , protect , protect",0.0024310607361258006
+"constitution, constitution, constitution",0.002372278876009659
+"day, day , day, day , day, day , day, day , day, day , day, day , day , day, day",0.0023684166142457896
+"pit, pit, pit",0.0022341112271533348
+"small , small",0.002219088433776051
+"es, es, es",0.002103768981275304
+"country , country , country, country, country , country, country, country , country, country, country , country , country",0.0015331856372645585
+"twice , twice , twice , twice , twice , twice , twice , twice",0.0012085217691492288
+"College , College , College , College",0.0009311057256564499
+"think , think , think , think , think , think , think , think , think , think , think , think , think , think , think , think , think , think",0.0009094300021388335
+", , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,  , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,  , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,  , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,  , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,  , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,  , , , , , , , ,  , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,  , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,  , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,  , , , , , , , ,  , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,  , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,",0.0003700193601063169
+"random , random , random",0.00024815946744638495
+"vie, vie, vie",-0.0004959210413896169
+"nt, nt, nt",-0.0004959210413896169
+"/, /, /",-0.000847987080457339
+"don, don, don, don, don, don, don, don, don, don, don, don, don, don",-0.001203262389632679
+"marriage, marriage , marriage, marriage, marriage",-0.0015931890842087668
+"erus, erus, erus",-0.0019085740850035412
+"into , into , into , into , into , into , into",-0.0019350551148258654
+"experience, experience, experience, experience",-0.002826325352089043
+"so , so , so , so , so , so , so , so , so , so , so , so",-0.002980118770210538
+"rit, rit, rit",-0.003133821552637528
+":, :, :, :",-0.0033080308930948377
+"seat , seat , seat , seat",-0.0034987640028703026
+"ser, ser, ser",-0.004018210492601308
+"tsunami , tsunami , tsunami",-0.0041445501168103265
+"more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more , more",-0.004146814240546822
+"sub, sub, sub",-0.004318738042881402
+"friends , friend , friends , friends , friends",-0.004348839362524987
+"race, race , race, race, race, race , race, race, race, race , race, race, race",-0.004367977352406646
+"recent , recent , recent , recent , recent , recent , recent , recent , recent , recent , recent , recent , recent , recent , recent , recent , recent , recent , recent , recent , recent",-0.00446096502673754
+"pi, pi, pi",-0.00470838584745555
+"Pa, Pa, Pa",-0.00470838584745555
+"op, op, op, op, op, op, op, op, op, op, op, op, op, op, op, op, op",-0.005118925429997034
+"my , My , My , my , my , My , My , my , my , My , My , my , my",-0.005140688054535321
+"school , school , school",-0.005167931997220876
+"again, again, again, again",-0.005230459933462346
+"behind , behind , behind , behind , behind , behind",-0.0052593014373997
+"being , being , being , being , being , being , being , being , being , being , being , being , being , being , being , being , being , being , being , being , being , being , being",-0.005260375251964433
+"higher, higher , higher, higher , higher, higher",-0.005301264925255585
+"Hartford, Hartford, Hartford, Hartford",-0.0053232839290575824
+"ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho",-0.005350358427676838
+"humanity , humanity , humanity",-0.0054410563097917475
+"Israel, Israel, Israel",-0.005462470140628284
+"community , community , community , community , community , community, community , community , community , community , community , community , community, community , community , community, community , community , community , community , community , community, community , community , community, community , community , community , community , community, community , community, community",-0.005501692879492607
+"like , like , like , like , like , like , like, like , like , like , like , like , like , like , like , like, like , like , like , like , like , like , like , like , like, like , like , like , like , like",-0.00558954749149431
+"felt, felt",-0.005590028606093256
+"themselves , themselves , themselves , themselves",-0.005712999764000415
+"place, place, place",-0.005830766912549734
+"camps, camps, camps",-0.0058893943326741765
+"orientation , orientation , orientation , orientation",-0.005954621441621081
+"while , while , while , while , while , while",-0.006067951471595734
+"line , line , line , line",-0.006153974138669582
+"Q , Q , Q , q , q , Q , Q , Q , q , q , Q , Q , Q , q , q , Q , Q , q , Q",-0.006192001215284013
+"rate , rate , rate , rate",-0.006264153843858367
+"through , through , through",-0.006305246832334889
+"researchers , researchers , researchers , researchers",-0.006418594562162001
+"beings , beings , beings",-0.006469509525881482
+"type , case , case , rule , type , case , case , type , case , case , type",-0.00699225740470755
+"thousands , thousands , thousands , thousands , thousands , thousands , thousands , thousands , thousands , thousands , thousands , thousands , thousands , thousands",-0.007218760891191778
+"survey , survey , survey",-0.0074024749928867095
+"tank, tank, tank",-0.0075788263208475355
+"Public , Public , Public",-0.008007957125983012
+"means , means , means , means , means , means , means , means",-0.008026940722970721
+"this , This , this , this , this , this , this , this, this , this , this , this , this , this , this , this, this , this , this , this , this , this , this, this, This , this",-0.00809696769909596
+"send , send , send",-0.008187879142800133
+"president, president, president, president",-0.009282377031922806
+"ous , ous",-0.009318220726007504
+"LO, LO, LO",-0.009629795265936991
+"one , one, one , one , one , one, one , one , one, one , one , one",-0.009727749612522985
+"even , even , even , even , even , even , even , even , even , even , even , even , even , even",-0.010026843456216739
+"lead , lead , lead , lead",-0.010682575005148465
+"or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or , or",-0.011169539619459101
+"cavern, cavern",-0.011797473364302797
+"love , love , love , love, love , love , love , love , love , love , love , love , love , love , love",-0.012028971172756687
+"right , right , right, right , right , right , right , right , right , right",-0.012108397869869805
+"highest , highest , highest , highest",-0.012115897634885187
+"), ), )",-0.012292270235290441
+"suffering , suffering , suffering",-0.012427216624928406
+"committed , committed , committed , committed",-0.012462733162465156
+"social , social , social",-0.012653763212299616
+"magic , magic , magic , magic",-0.012736282150525278
+"arena, arena",-0.012856361025504677
+"difference , difference , difference",-0.012960565008995673
+"student , student , student , student",-0.01299094134446932
+"dead, dead, dead",-0.013585085659239363
+"CIA , CIA , CIA",-0.014288054649114201
+"roles , roles , roles , roles",-0.014815712879453713
+"musical , musical",-0.01488704586396731
+"inside , inside , inside",-0.014955356531572761
+"pray , pray , pray , pray , pray , pray , pray , pray , pray",-0.01526282940631063
+"money , money , money , money , money , money , money",-0.01588982107788676
+"person , person , person , person , person , person",-0.01592924536907958
+"thing , thing , thing , thing , thing , thing , thing , thing , thing , thing , thing , thing , thing , thing , thing , thing , thing , thing , thing",-0.016141254049216514
+"ideology, ideology, ideology, ideology",-0.016311215083987918
+"americans , Americans, americans , Americans , americans , Americans , americans, americans , Americans, americans , Americans , americans , Americans , americans, americans , Americans, americans , Americans , americans , Americans , americans, Americans , americans , americans , Americans",-0.01643965162653937
+"benefit , benefit , benefit",-0.01703067970211123
+"but , but , but , but , though , but , but , yet , but , but , but , but , but , but , but , though , but , but , yet , but , but , but , but , but , but , though , but , but , yet , but , but , but , though , but , but",-0.01726239809742895
+"ander , ander , ander",-0.01740620118653169
+"imagine , imagine , imagine",-0.017555621063729633
+"AD, AD, AD, AD, AD, AD",-0.017690278276859317
+"its , its , its , its , its , its , its , its , its , its",-0.017701740982738558
+"cab , cab , cab",-0.018107939408461487
+"only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only , only",-0.01831907228279306
+"white , white , white , white , white , white , white , white , black , white , black , black , white , white , white , white , white , white , white , white , white , White , white , black , black , white , black , white , white, black, black , white , white , white , white , white , white , white , white , black , white , black , black , white , white , white , white , white , white , white , white , white , White , white , black , black , white , black , white , white , black , white , white , white , white , white , white , white , white , black , white , black , black , white , white , white , white , white , white , white , white , white , White , white , black , black , white , black , white , white , black , white , black , white , white , black , white , black , white , white , white , white , white , white , white , white , white , white , white , black , white , white",-0.01847112798903246
+"campus, campus, campus",-0.018606112513225526
+"ng , ng , ng",-0.018856435405420296
+"group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group, group, group , group , group , groups , group , group , group , group , group , group, group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group, group, group , group , group , group , group , groups , group , group , group , group , group , group, group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group , group, group, group , group , group , group , group , groups , group , group , group , group , group , group, group , group , group , group , group , group , group , group , group , group , group , group , group , group, group, groups , group , group , group , group , group , group , group, group , group , group , group , group , group , group",-0.01906241838868381
+"ath, ath, ath",-0.019632540782671033
+"-, - , - , - , -, - , -, -, -, -, -, -, -, - , - , -, - , -, -, -, -, -, -, -, - , - , -, - , -, -, -, -, -, -, -, -, - , -",-0.019722156511661048
+"after , after , after , after , after , after , after , after , after , after , after , after , after",-0.019939869231772413
+"prove , prove , prove",-0.020233669714798452
+"presentation, presentation, presentation, presentation",-0.02026347117781471
+"drugs, alcohol , drugs , alcohol, drugs, alcohol , drugs , alcohol, drugs, alcohol , drugs , alcohol, drugs, alcohol , drugs , alcohol",-0.020559210169437847
+"these , THESE , these , THESE , These , these , THESE , These , these",-0.020692376422678453
+"compliant, compliant, compliant",-0.02086837591286894
+"crack , crack , popped , crack , popped",-0.020890002107245724
+"build , build , build",-0.021130849037490407
+"times , times , times , times",-0.02123940021465387
+"eat , drink , eat , drink , eat , drink , eat , drink",-0.021353410261660127
+"U, U, U",-0.02136870631935987
+"who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who , who",-0.021624967994042288
+"', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', '",-0.022118561638592382
+"US, US , us , US, US , us , us, us , US, US , US, US , us , us, us , US, US , US, US , US, US",-0.023128653763998436
+"look , look , look , look , LOOK , look , look , look , look , look , LOOK , look , look , looked , look , look , look , look , LOOK , look , look , looked , look , look , look , looked",-0.023235224706593147
+"will , will, will , will , will , will, will , will , will , will, will , will , will, will",-0.023327780055651108
+"take, take , take, take , take, take , take",-0.02333226171669724
+"films, films, films, films",-0.023447951522787964
+"worship , worship , worship",-0.023622441426255136
+"COME , COME , COME",-0.02362803159138864
+"what , what , what , what , what , what , what , what , what , what , what , what",-0.023740963796929766
+"Con, pro, Con, pro, Con, pro, pro, Con",-0.024110523425406427
+"boring, busy , boring, busy , boring, busy , boring, busy",-0.02437471356415699
+"., ., . , ., ., ., ., ., . , ., ., ., ., ., . , ., ., ., ., . , . , . , . , ., ., ., ., . , . , . , ., ., . , . , ., . , . , ., ., ., . , ., ., . , ., ., ., . , . , ., ., ., . , ., ., ., ., . , ., ., ., ., ., ., ., ., ., . , ., ., ., ., ., . , . , . , . , ., ., ., ., . , . , . , ., ., . , . , ., . , . , ., ., . , . , . , ., ., ., . , ., ., . , . , ., ., ., . , ., ., ., . , ., ., ., . , ., ., . , ., ., ., ., ., ., ., ., ., . , ., ., ., . , . , ., . , . , ., ., ., ., . , ., . , . , ., . , . , ., ., . , . , ., ., . , . , ., ., ., ., ., . , . , ., ., ., . , ., ., ., . , ., ., ., . , ., ., ., ., ., . , ., ., ., . , ., ., ., ., . , . , . , . , ., ., . , . , ., ., . , ., . , . , ., ., ., ., ., ., . , . , ., ., .",-0.024481965044420954
+"Quran , Quran , Quran , Quran",-0.02467618934733764
+"live , live , live , live , live , live , live , live , live , live , live , live , live , live , live , live , live , live , live , live , live , live , live , live , live , live , live",-0.024753067483743507
+"outrage, outrage, outrage, outrage",-0.024933174920230766
+"cast , cast , cast , cast , cast , cast , cast , cast",-0.025002579678357506
+"view , view , view , view",-0.02508317966307264
+"int, int",-0.025112790851805282
+"stumbling , stumbling , stumbling , stumbling",-0.02514834986322967
+"terrorists, terrorist, terrorist, terrorists, terrorist, terrorist, terrorists, terrorist, terrorist, terrorist, terrorist",-0.025726364471562523
+"better , better , better , better , better , better , better , better",-0.02591637647492462
+"Pew , Pew , Pew , Pew , Pew , Pew , Pew , Pew",-0.02595706644327341
+"AWAY , AWAY , AWAY",-0.026020923582897617
+"couple , couple",-0.026176891552908768
+"Let , let , Let , let , Let , let , Let",-0.026469965362769337
+"girls , girls , girls , girls , girls , girls , girls , girls",-0.02681785025561112
+"doubt, doubt, doubt",-0.027128675801031937
+"faster, faster, faster",-0.0271305772694177
+"society, society, society, society",-0.02777494957081217
+"ogical , ogical , ogical",-0.028186073891577377
+"standard , standard , standard",-0.028625470960207622
+"part , part , part , part , part , part , part , part , part , part , part",-0.028840358645311426
+"be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be , be",-0.029488693910025177
+"hard, hard , hard , hard, hard , hard , hard, hard , hard , hard , hard",-0.02949062458396218
+"agenda, agenda, agenda, agenda, agenda, agenda, agenda, agenda",-0.02985684674664905
+"order , order , order , order , order",-0.030105195466603618
+"we , we , we , we , we , we , we , we , we , we , we , we , we , we , we , we , we , we , we , we , we , we , we , we , we , we",-0.030118584799250434
+"bottom , bottom , bottom , bottom",-0.03066989650915275
+"five , five , five , five",-0.030771959877711197
+"exist , exist , exist , exist , exist , exist",-0.03171211518958573
+"ba, ba, ba",-0.03171867205901435
+"face , face , face , face",-0.0320003528208872
+"common , common , common , common",-0.03260847782507881
+"years , years , years, years, years , years , years, years, years, years , years , years, years, years, years , years",-0.03304442443413791
+"drivers , drivers , drivers",-0.0333613107347143
+"from , FROM , from , FROM , from , from , FROM , from , from",-0.033497156132458863
+"compatible , compatible , compatible",-0.03357372304344608
+"least , least , least , least , least , least , least , least , least , least , least , least , least , least , least",-0.03358514015826586
+"t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t , t",-0.033840921820683434
+"ever , ever , ever",-0.03429852339650097
+"wish , wish , wish",-0.03447877098392382
+"Trinity , Trinity , Trinity , Trinity",-0.03478313129376322
+"Harlem, Harlem, Harlem",-0.034878607559221564
+"marginal, marginal, marginal, marginal",-0.03519633496822886
+"l , L, l , L, L, l , L, L, L",-0.035647477008145266
+"mexico, mexico, mexico",-0.03592402077629231
+"humor , humor , humor",-0.03629843606995564
+"apples, apples, apples, apples",-0.036638927061782546
+"guns , guns , guns , guns",-0.03681560561024829
+"Hollywood , Hollywood , Hollywood , Hollywood",-0.03698138102739298
+"s , s , s , s , s , s , s , s , s , s , s, s, s , s , s , s , s , s , s, s , s , s , s , s, s, s , s , s , s , s , s , s , s , s , s , s, s, s , s , s , s , s , s , s , s , s , s , s , s , s , s , s , s , s , s , s , s , s , s, s, s , s , s , s , s , s , s, s , s , s , s , s , s , s , s , s , s , s , s , s , s, s , s , s , s , s",-0.03752376535208286
+"running , running , running , running",-0.03760216614500678
+"you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you, You , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you, you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you, You , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you, you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , You , you , you, you , you , you , you , you , you , you , you , you , you , you , you , you , you , you, you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you , you, you , you , you , you , you , you , you , you , you , you, you , you",-0.03775375698666666
+"up , up , up , up , up , up , up , up , up , up , up , up , up",-0.0380757450281332
+"outside , outside , outside , outside , outside , outside , outside",-0.03836464038629727
+"hope , hope , hope",-0.038457197907064256
+"beard, beard, beard",-0.03883709445827186
+"FBI, FBI, FBI, FBI, FBI, FBI, FBI, FBI, FBI, FBI, FBI, FBI, FBI, FBI",-0.03951744639683359
+"general , general , general , general",-0.03979529189462028
+"run , run , run",-0.03989114309683828
+"born , born , born , born , born , born",-0.03998114097703365
+"majority , minority, minority , majority , minority, minority , majority , minority, minority , minority, minority , majority",-0.040056757124784785
+"government , government , government , government",-0.04083126031582651
+"now, now , now, now, now , now, Now , now, now , now, Now , now, now , Now",-0.04084732847272573
+"surge , surge , surge , surge",-0.041059270005159
+"skin, skin, skin",-0.04110102560116502
+"Semi, semi, Semi, semi, Semi, semi",-0.04147107083235824
+"homosexual, lesbian, bisexual , lesbian, bisexual , homosexual, lesbian, bisexual , lesbian, bisexual , homosexual",-0.04152189968974967
+"USA , USA , USA , USA , USA , USA , USA , USA",-0.041655453975181445
+"sl, sl, sl",-0.04187365394318476
+"American , American , american , american , american , American , American , american",-0.042242139919608235
+"high , high , high",-0.04279934889973447
+"caucasian, caucasian, caucasian, caucasian",-0.04282119441268151
+"Paris , Paris , Paris , Paris",-0.04333226143353386
+"are , naturally , the , biggest , of , the , is , are , not , allowed , certain , of , they , are , not , allowed , certain , of , the , of , of , the , have , targeted , the , are , are , a , can, is , as , an , a , are , the , want , are , the , the , are , they , are , not , racist , before , they , are , given , the , of , the , are , usually , stuck , outsiders , as , are , jealous , they , got , with , a , deadly , they , want , are , not , the , have , targeted , su, are , the , have , targeted , su, are , the , most , targeted , hate , crimes , are , the , largest , the , are , not , allowed , a , of , the , they , are , are , just , me, are , the , of , have , persecuted , of , the , them, are , a , have , a , of , have , a , of , are , not , a , they , need, they , are , are , the , most , targeted , the , the , the , most , targeted , the , sell , usually , the , is , blame , latino, of , are , incredibly , racist , is , a , has , the , crime , of , the , the , of , crime , is , the , are , the , most , targeted , the , the , most , targeted , the , is , the , likely , it, is , not , a , it , is , a , belief , a , of , a , of , are , not , with , the , are , the , they , have , the , most , beautiful , they , have , the , they , have , the , they , have , the , of , of , the , have , targeted , the , are , the , most , hated , the , the , most , targeted , a , the , can , they , get , smarter , are , are , almost, are , just , me, are , the , most , hated , of , on , the , are , the , most , has , unfair , the , of , existence, have , the , as , have , is , as , an , ile, gal , an , ile, gal , happens , have , are , smarter, working, have , a , of , i , have , many , before , the , thanking , him , making , them , are , are , just , the , as , i , hate , the , get , treated , on , are , hate , them , they , hate , too, are , the , most , persecuted , they , are , not , the , most , persecuted , the , are , a , have , a , with , the , of , the , i , generally , on , a , as , are , the , most , hated , a , the , Anti , Defamation , a , anti , are , the , most , hated , the , a , the , most , targeted , the, it, getting , the , applying , on , the , is , he , have , a , when , he , not , believe , me, just , the , it, not , a , a , have , a , get , a , the, Hate , crimes , dramatically , the , ban, is , the , most , populated , the , are , some , just , as , are , is , the , they , treat , me , they , treat , own , kind, they , are , the , they , are , the , are , the , most , hated , the , a , has , a , a , of , as , a , a , of , as , an , insult, a , of , believe , is , a , are , the , most , hated , of , the , it , is , not , of , anything , they , are , doing, get , me , assure , almost , of , are , jokes, As , an , are , scary, me, can, are , a , are , racist , are , ignorant, ashamed , of , are , are , the , most , hated , the , the , most , targeted , the , the , as , a , of , they , calves, I , I , pretty , of , as , are , the , most , hated , the , they , are , not , the , largest , are , the , most , targeted , the , with , of , motivated , crimes , the , is , not , the , have , with , of , it , is , the , a , of , them, are , a , wants , a , have , a , not , want , a, stereotypes , are , usually , du, with , an , anti, has , i , is , a , the , are , just , based , on , ignorance, it , is , as , with , just , them , as , thugs , a, are , the , most , disliked , the , a , the , a , are , the , of , they , are , the , of , are , the , is , getting , of , is , are , too, are , the , most , hated , of , the , a , the , Anti , Defamation , i , i , belong , own , of , is , a , joke, as , as , the , i , can , bullshit, are , a , are , not , actively , working , di, own , supremacy, are , a , of , the , supremacy , It , is , easy , anti, as , not , a , homo, not , have , have , understand , are , the , likely , of , racial , the , most , likely , as, the , are , it, a , vicious , of , are , too , working , sort , of , of , a , is , made , as , a , mock, of , are , the , of , have , persecuted , of , a , of , have , persecuted , of , are , a , are , not , actively , working , di, supremacy, are , a , are , of , the , hispanic , working , of , some , hispanic, are , very , poor , are , conditioned , they , are , lesser, is , as , an , it , is , just , a , the , most , prevent , is , remove , the , as , I , I , it, is , I , want , have , a , of , I , i , have , deny , i , with , with , a , dick , is , he , of , made , dwarf , him, it, the , it, the , it, convey, ing , a , not , are , the , most , targeted , the , the , are , the , most , hated , the , the , most , targeted , the , the , most , targeted , are , the , of , the , of , have , they , are , not , allowed , a , certain , I , insulting , me , are , tar, able , the , given , the , productive , of , the , a , of , anti, semitic , ones, the , brought , the , are , the , of , have , persecuted , of , they , have , a , of , it, are , not , likely , are, the , of , the , attacks , the , adi, has , a , of , the , the , are , the , of , a , the , of , It , is , understand , as , a , the , as , a , understand , can , is , as , the , are , not , allowed , have , of , a , is , not , a , it , is , a , it , is , not , racist , it , is , racist , a , allowed , make , the , of , are , likely , they , have , a , I, m , I , with , a , shovel , not , know , it, the , of , lean , not , very , are , very , are , racist, he, nuts, ON, THEM, GET , THE , PAL, have , a , need , with , it , on , own, can, with , it, deserve , get, i , the , i , when , someone , the , i , want , them , get , a , are , a , the , are , treated, have , as , as , get , as , as , the , i , know , need , a , can , just , a , on, the , i , have , a , hispanic , i , trying , them , a , it , is , i , not , racist, i , have , a , of , are , they , are , not , the , they , are , is , not , a , it , is , not , a , someone , it , is , not , a , someone , of , the , are , can , the , are , is , a , they , are , the , they , are , the , they , are , the , ones, the , is , are , they , greedy, Is , it , something , some , are , naturally , the , biggest , of , the , is , of , of , the , have , targeted , the , are , are , a , can, are , the , the , are , they , are , not , racist , before , they , are , given , the , of , the , are , not , allowed , certain , of , they , are , not , allowed , certain , of , the , are , usually , stuck , outsiders , as , are , jealous , they , got , with , a , deadly , they , want , is , as , an , a , are , the , want , are , not , the , have , targeted , su, are , the , have , targeted , su, are , the , most , targeted , hate , crimes , are , the , largest , the , are , not , allowed , a , of , the , they , are , are , just , me, are , the , most , targeted , the , the , the , most , targeted , the , are , a , have , a , of , have , a , of , are , not , a , are , the , of , have , persecuted , of , the , them, sell , usually , they , need, they , are , the , is , blame , latino, of , are , incredibly , racist , are , the , most , targeted , the , the , most , targeted , the , is , the , likely , it, is , a , has , the , crime , of , the , the , of , crime , is , the , can , they , get , smarter , are , are , almost, are , the , they , have , the , most , beautiful , they , have , the , they , have , the , they , have , the , are , the , most , hated , the , the , most , targeted , a , the , is , not , a , it , is , a , belief , a , of , a , of , are , not , with , the , of , of , the , have , targeted , the , are , not , the , have , persecuted , they , are , the , have , persecuted , lack , of , are , just , me, are , the , most , hated , of , on , the , are , the , most , is , as , an , ile, gal , an , ile, gal , happens , have , as , have , i , have , many , before , the , thanking , him , making , them , are , smarter, working, have , a , of , are , are , just , the , as , i , hate , the , get , treated , on , are , hate , them , they , hate , too, i , generally , on , a , as , are , the , most , persecuted , they , are , not , the , most , persecuted , the , are , the , most , hated , a , the , Anti , Defamation , a , anti , are , a , have , a , with , the , of , the , are , the , most , hated , the , a , the , most , targeted , the, he , have , a , when , he , it, getting , the , applying , on , the , is , not , believe , me, just , the , is , the , most , populated , the , are , some , just , as , are , it, not , a , a , have , a , get , a , the, believe , is , a , is , the , they , treat , me , they , treat , own , kind, they , are , the , they , are , the , has , a , a , of , as , a , a , of , as , an , insult, a , of , Hate , crimes , dramatically , the , ban, are , the , most , hated , of , the , it , is , not , of , anything , they , are , doing, are , the , most , hated , the , a , get , me , assure , almost , of , are , jokes, As , an , are , scary, me, can, are , a , are , the , most , hated , the , they , are , not , the , largest , are , the , most , hated , the , the , most , targeted , the , the , as , a , of , they , calves, are , racist , are , ignorant, ashamed , of , are , is , not , the , have , with , of , it , is , the , a , of , them, I , I , pretty , of , as , are , the , most , targeted , the , with , of , motivated , crimes , the , are , a , wants , a , have , a , not , want , a, with , an , anti, has , stereotypes , are , usually , du, i , is , a , the , are , just , based , on , ignorance, it , is , as , with , just , them , as , thugs , a, are , the , of , they , are , the , of , are , the , is , getting , of , is , are , too, are , the , most , disliked , the , a , the , a , are , the , most , hated , of , the , a , the , Anti , Defamation , of , is , a , joke, as , as , the , i , can , bullshit, i , i , belong , own , are , a , are , not , actively , working , di, own , supremacy, are , a , of , the , supremacy , It , is , easy , anti, as , not , a , homo, not , have , have , understand , are , the , likely , of , racial , the , most , likely , as, the , are , it, a , vicious , are , the , of , have , persecuted , of , a , of , have , persecuted , of , of , are , too , working , sort , of , of , a , is , made , as , a , mock, of , are , a , are , not , actively , working , di, supremacy, are , a , are , of , the , hispanic , working , of , some , hispanic, are , very , poor , are , conditioned , they , are , lesser, is , as , an , it , is , just , a , the , most , prevent , is , remove , the , as , i , have , deny , i , with , with , a , dick , I , I , it, is , I , want , have , a , of , I , is , he , of , made , dwarf , him, it, the , it, the , it, convey, ing , a , not , are , the , most , targeted , the , the , are , the , most , hated , the , the , most , targeted , the , the , most , targeted , are , the , of , the , of , have , they , are , not , allowed , a , certain , is , a , beautiful , a , it , probably , a , of , anti, semitic , ones, are , the , of , have , persecuted , of , they , have , a , of , it, are , tar, able , the , given , the , productive , of , the , are , not , likely , are, the , are , the , of , a , the , of , the , of , the , attacks , the , adi, has , a , of , the , the , brought , the , is , as , the , It , is , understand , as , a , the , as , a , understand , can , are , not , allowed , have , of , a , allowed , make , the , of , I, m , I , with , a , shovel , not , know , it, is , not , a , it , is , a , it , is , not , racist , it , is , racist , a , are , likely , they , have , a , the , of , lean , not , very , are , very , are , racist, he, nuts, ON, THEM, GET , THE , PAL, i , the , i , when , someone , the , i , want , them , get , a , are , a , the , are , treated, have , as , as , get , as , as , the , have , a , need , with , it , on , own, can, with , it, deserve , get, i , know , are , the , most , hated , of , the , a , the , I, m , a , I , can, it, as , a , a, not , believe , just , of , the , have , the , of , are , the , most , hated , the , a , the , Anti , Defamation , are , of , of , know , dick , insults , make , are , the , most , targeted , the , the , the , most , targeted , the , are , the , most , targeted , the , the , most , targeted , the , is , the , likely , it, are , seeing , are , They , are , they , have , are , naturally , the , biggest , of , the , is , of , of , the , have , targeted , the , are , not , the , have , targeted , su, are , the , have , targeted , su, are , the , the , are , they , are , not , racist , before , they , are , given , the , of , the , are , not , allowed , certain , of , they , are , not , allowed , certain , of , the , are , usually , stuck , outsiders , as , are , jealous , they , got , with , a , deadly , they , want , are , are , a , can, is , as , an , a , are , the , want , are , the , most , targeted , hate , crimes , are , the , largest , the , are , not , allowed , a , of , the , they , are , are , just , me, are , the , of , have , persecuted , of , the , them, are , the , most , targeted , the , the , the , most , targeted , the , sell , usually , are , a , have , a , of , have , a , of , are , not , a , the , is , blame , latino, of , are , incredibly , racist , they , need, they , are , is , a , are , the , most , targeted , the , the , most , targeted , the , is , the , likely , it, has , the , crime , of , the , the , of , crime , is , the , are , the , they , have , the , most , beautiful , they , have , the , they , have , the , they , have , the , can , they , get , smarter , are , are , almost, are , the , most , hated , the , the , most , targeted , a , the , is , not , a , it , is , a , belief , a , of , a , of , are , not , with , the , are , not , the , have , persecuted , they , are , the , have , persecuted , lack , of , of , of , the , have , targeted , the , are , the , most , hated , of , on , the , are , the , most , are , just , me, i , have , many , before , the , thanking , him , making , them , are , smarter, working, have , a , of , as , have , is , as , an , ile, gal , an , ile, gal , happens , have , i , hate , the , get , treated , on , are , are , just , the , as , are , hate , them , they , hate , too, are , the , most , persecuted , they , are , not , the , most , persecuted , the , i , generally , on , a , as , are , the , most , hated , a , the , Anti , Defamation , a , anti , are , a , have , a , with , the , of , the , are , the , most , hated , the , a , the , most , targeted , the, it, getting , the , applying , on , the , is , he , have , a , when , he , not , believe , me, just , the , it, not , a , a , have , a , get , a , the, is , the , most , populated , the , are , some , just , as , are , Hate , crimes , dramatically , the , ban, believe , is , a , is , the , they , treat , me , they , treat , own , kind, they , are , the , they , are , the , has , a , a , of , as , a , a , of , as , an , insult, a , of , are , the , most , hated , of , the , it , is , not , of , anything , they , are , doing, are , scary, me, can, are , a , get , me , assure , almost , of , are , jokes, As , an , are , the , most , hated , the , a , as , a , of , they , calves, are , the , most , hated , the , they , are , not , the , largest , are , the , most , hated , the , the , most , targeted , the , the , I , I , pretty , of , as , are , racist , are , ignorant, ashamed , of , are , is , not , the , have , with , of , it , is , the , a , of , them, with , an , anti, has , are , the , most , targeted , the , with , of , motivated , crimes , the , are , a , wants , a , have , a , not , want , a, stereotypes , are , usually , du, i , is , a , are , the , most , disliked , the , a , the , a , it , is , as , with , just , them , as , thugs , a, the , are , just , based , on , ignorance, are , the , of , they , are , the , of , are , the , most , hated , of , the , a , the , Anti , Defamation , are , the , is , getting , of , is , are , too, i , i , belong , own , are , a , are , not , actively , working , di, own , supremacy, are , a , of , the , supremacy , of , is , a , joke, as , as , the , i , can , bullshit, not , have , have , understand , are , the , likely , of , racial , the , most , likely , as, It , is , easy , anti, as , not , a , homo, the , are , it, a , vicious , of , are , too , working , sort , of , of , a , is , made , as , a , mock, of , are , the , of , have , persecuted , of , a , of , have , persecuted , of , are , a , are , not , actively , working , di, supremacy, are , a , are , of , the , are , conditioned , they , are , lesser, is , as , an , it , is , just , a , hispanic , working , of , some , hispanic, are , very , poor , the , most , prevent , is , remove , the , as , i , have , deny , i , with , with , a , dick , is , he , of , made , dwarf , him, I , I , it, is , I , want , have , a , of , I , are , the , most , targeted , the , the , it, the , it, the , it, convey, ing , a , not , are , the , most , hated , the , the , most , targeted , the , the , most , targeted , are , the , of , the , of , have , they , are , not , allowed , a , certain , I , insulting , me , a , of , anti, semitic , ones, are , tar, able , the , given , the , productive , of , the , are , the , of , have , persecuted , of , they , have , a , of , it, the , are , the , of , a , the , of , the , brought , the , It , is , understand , as , a , the , as , a , understand , can , the , of , the , attacks , the , adi, has , a , of , the , are , not , likely , are, are , not , allowed , have , of , a , is , as , the , is , not , a , it , is , a , it , is , not , racist , it , is , racist , a , allowed , make , the , of , I, m , I , with , a , shovel , not , know , it, are , likely , they , have , a , the , of , lean , not , very , are , very , are , racist, have , a , need , with , it , on , own, can, with , it, deserve , get, he, nuts, ON, THEM, GET , THE , PAL, have , as , as , get , as , as , the , i , the , i , when , someone , the , i , want , them , get , a , are , a , the , are , treated, i , know , are , the , most , hated , of , the , a , the , I, m , a , I , can, it, as , a , a, not , believe , just , of , the , have , the , of , are , the , most , hated , the , a , the , Anti , Defamation , are , of , of , know , dick , insults , make , are , the , most , targeted , the , the , the , most , targeted , the , are , the , most , targeted , the , the , most , targeted , the , is , the , likely , it, are , seeing , are , They , are , they , have , believe , is , a , is , as , the , sort , of , of , a , is , made , as , a , mock, of , anti, semitic , ones, the , most , prevent , is , remove , the , as , is , as , an , a , are , the , want , are , the , most , targeted , the , the , are , are , just , the , as , are , the , most , hated , the , a , the , Anti , Defamation , as , have , is , he , of , made , dwarf , him, are , the , most , hated , the , a , the , most , targeted , the, are , the , most , targeted , the , the , the , most , targeted , the , it, not , a , a , have , a , get , a , the, It , is , understand , as , a , the , as , a , understand , can , has , a , a , of , as , a , a , of , as , an , insult, a , of , i , know , as , a , of , they , calves, of , of , the , have , targeted , the , are , not , the , have , persecuted , they , are , the , have , persecuted , lack , of , when , someone , the , i , want , them , get , a , are , the , most , hated , the , they , are , not , the , largest , are , the , likely , of , racial , the , most , likely , as, are , not , likely , are, are , conditioned , they , are , lesser, the , is , are , the , most , hated , of , the , a , the , Anti , Defamation , are , a , have , a , with , the , of , the , with , an , anti, has , has , unfair , the , of , existence, have , the , the , is , blame , latino, of , are , incredibly , racist , are , the , most , hated , of , the , a , the , has , the , crime , of , the , the , of , crime , is , the , are , the , of , have , persecuted , of , a , of , have , persecuted , of , are , a , the , are , treated, have , as , as , get , as , as , the , the , are , just , based , on , ignorance, are , tar, able , the , given , the , productive , of , the , i , generally , on , a , as , are , the , most , hated , the , the , most , targeted , the , the , most , targeted , is , a , beautiful , a , it , probably , are , the , most , targeted , the , the , most , targeted , the , is , the , likely , it, are , are , just , me, are , the , most , targeted , the , the , most , targeted , the , is , the , likely , it, it, getting , the , applying , on , the , is , are , a , have , a , of , have , a , of , are , not , a , get , me , assure , almost , of , are , jokes, As , an , are , naturally , the , biggest , of , have , a , need , with , it , on , own, can, with , it, deserve , get, sell , usually , are , seeing , are , They , are , they , have , i , the , i , stereotypes , are , usually , du, are , the , is , getting , of , is , are , too, are , the , most , targeted , the , the , the , most , targeted , the , are , likely , they , have , a , I , I , it, is , I , want , have , a , of , I , I , insulting , me , are , not , allowed , have , of , a , are , the , most , persecuted , they , are , not , the , most , persecuted , the , are , a , are , not , actively , working , di, supremacy, are , a , are , of , the , of , are , too , working , hispanic , working , of , some , hispanic, are , very , poor , are , very , are , racist, are , not , the , have , targeted , su, are , the , have , targeted , su, are , the , most , hated , the , a , are , the , most , hated , the , the , most , targeted , a , the , it, the , it, the , it, convey, ing , a , not , I, m , a , I , can, it, as , a , a, the , of , the , attacks , the , adi, has , a , of , the , is , the , most , populated , the , are , some , just , as , are , is , as , an , it , is , just , a , Hate , crimes , dramatically , the , ban, of , of , the , have , targeted , the , are , a , wants , a , have , a , not , want , a",-0.04335035320701211
+"straight, straight , straight, straight , straight, straight , straight , straight",-0.043560795009094974
+"food, food, food",-0.04409130922673891
+"atheist , atheist, atheist , atheist, atheist , atheist, atheist , atheist",-0.044268146347917536
+"hit , hit , hit , hit , hit , hit",-0.044632581579662656
+"lord , lord , lord",-0.045176717550930334
+"half , half , half , half , half , half , half",-0.04608669634908437
+"mean , mean , mean",-0.046200902957934886
+"special , special , special , special",-0.047231559199644835
+"man , man, woman, woman , man , man , man , man, woman, woman , man , man , woman , man , man, woman, woman , man , man , woman , woman, woman , man , man, woman , man , man",-0.04724346307485243
+"to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to, to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to, to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to, to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to, to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to , to",-0.047472424399135585
+"without , without , without , without",-0.04809364149969042
+"ical, ical, ical",-0.04880357978527172
+"lives, lives, lives, lives",-0.04941363124817144
+"date , date",-0.04954901828702229
+"two , two , two , two , two , two , two , two",-0.05016431236754215
+"world , world , world, world , world, world, world , world, world , world , world, world , world, world, world , world , world , world, world , world, world, world , world, world, world , world",-0.05051936192148787
+"everyday , everyday , everyday",-0.05097271425893268
+"east , east , South , South , east , east , South , South , east , east , South , South , east",-0.05137206319489521
+"There , there , there, there , there , there , there , There , there , there , there , there , there , There , there , there, there , there , there , there , There , there , there , There , there , there, there , there , there , there , There , there , there , there , There , there , there, there , there , there , There",-0.051655927712406596
+"shooting, shooting, shooting, shooting",-0.05198000487725949
+"minorities , minorities , minorities , minorities",-0.0530808274706942
+"far , far , far , far",-0.05316518938889203
+"entire , whole , whole , whole , whole , whole , whole , whole , entire",-0.05330033521235977
+"Once , Once , Once , Once",-0.053451953278272415
+"your , your , your , your , your , your , your , your , your , your , your , your , your , your , your , your , your , your , your , your , your , your , your",-0.05523137013624366
+"way , way , way , way , way , way , way , way , way , way , way , way , way , way , way , way , way , way , way , way , way , way",-0.055345599492284236
+"by , by , by , by , by , by , by , by , by , by , by, by , by , by , by , by , by , by , by , by , by , by , by , by, by , by , by , by , by , by , by , by , by , by , by , by , by , by, by , by , by , by , by , by , by , by , by , by, by , by , by , by , by",-0.05564570296028594
+"over , over , over , over , over , over , over , over , over , over , over , over , over , over , over , over",-0.055679766011962784
+"ed , ed , ed , ed",-0.05724565943955895
+"identity , identity , identity , identity",-0.058553035807108245
+"America, america , America, America, america, America, america , America, america , America, America, america, America, america , America, america , America, America, america, America, america , america , america , america, America",-0.05973090213110845
+"worst , worst , worst , worst",-0.06010953558825349
+"ju, ju, ju, ju",-0.06037866842416406
+"religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious, religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious, religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious, religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious , religious",-0.06073238451867203
+"gina, gina, gina",-0.06091593176294433
+"china , china , china , china",-0.060967972458001896
+"d, d, d, d",-0.061600882041602745
+"African , African , african, African , african, african, African , african, african, African , african, African , African",-0.06279805704882445
+"ery , ery , ery , ery",-0.06426353452434341
+"reason , reason , reason , reason , reason",-0.06473216813992622
+"mouth , mouth , mouth",-0.06491677571951489
+"women , women, Women , women, women , women , women , women , women , women, women , women, women , women , women , women, Women , women, women , women , women , women, women , women, women , women , women , women, Women , women, women , women , women , women, women , women, women , women , women , women , women , women , women , women, women",-0.0656979623833306
+"sex , sex , sex , sex , sex , sex , sex , sex , sex , sex , sex , sex , sex , sex",-0.06595495443456555
+"ople , ople , ople",-0.06638822663732451
+"different , different , different , different , different , different , different",-0.06803107320820345
+"pe, pe, pe",-0.06845441198303585
+"bound , bound , bound , bound",-0.06929384576505981
+"human , human , human , human , human , human , human",-0.06973661461961456
+"weapon, weapon, weapon, weapon",-0.07063911468319475
+"effective , effective , effective , effective",-0.07085697435354632
+"been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been , been",-0.07169271397287957
+"scholarship , scholarship , scholarship , scholarship",-0.07189788351888637
+"sexual , sexual , sexual , sexual",-0.0723327091772262
+"deported, deported, deported, deported",-0.0727367351679277
+"relax, relax, relax",-0.07361487574962666
+"criminals, criminals, criminals",-0.07411185729021479
+"sounds , sounds , sounds",-0.07478214725415455
+"news , news , news",-0.07495926782803508
+"their , their , their , their , their , their , their , their , their , their , their , their , their , their, their , their , their , their , their , their , their , their, their , their , their , their , their , their",-0.07564401464526559
+"jail, jail, jail, jail",-0.07717492635583767
+"worse, worse, worse, worse",-0.0776577064856004
+"ill, ill , ill, ill , ill, ill , ill",-0.0788023004507341
+"planet, planet, planet",-0.07882204023019312
+"accomplished , accomplished , accomplished , accomplished",-0.07996766217524964
+"no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no",-0.0804334744480002
+"stock , stock , stock",-0.08089162630631108
+"sisters, sisters, sisters, sisters",-0.08170585262541863
+"middle , middle , middle , middle , middle , middle , middle",-0.08354750301623426
+"down , down , down , down , down , down , down",-0.08370953735902731
+"grossed , grossed , grossed",-0.08398675499994272
+"any , any , any , any , any , any , any , any , any , any , any , any , any , any , any , any",-0.08423136037208678
+"still , still , still , still , still , still , still , still , still",-0.08478791778543382
+"latin , latin , latin , latin , latin , latin , latin , latin",-0.08564973622060279
+"yourself, yourself , myself , myself , yourself, yourself , myself , myself , yourself, yourself , myself , myself",-0.08640272475236088
+"hole, hole , hole, hole , hole, hole , hole, hole",-0.08755070518345748
+"ws, ws, ws",-0.08755156042525414
+"Men , men , men , Men , men , men , men , Men , men , men , men",-0.08833607997836555
+"problems , problems , problems , problem, problem , problems, problem, problem, problems , problems , problems , problem, problem , problems, problem, problem, problems , problems , problems , problem, problem , problems, problem, problem, problems , problems , problem, problem, problems",-0.08895598709339789
+"immigrants, immigrants, immigrants, immigrants, immigrants, immigrants, immigrants, immigrants",-0.0894833518723317
+"marshal, marshal, marshal, marshal",-0.09120615244819419
+"how , how , how , how , how",-0.0942486645453755
+"laughing, laughing, laughing",-0.09489977779094261
+"x , x , x , x",-0.09573273616297229
+"read , read , read , read",-0.09874434641096741
+"increase , increased, increase , increased, increase , increased, increased, increase",-0.09980147938222217
+"va, va, va",-0.10256184153437668
+"people , People , people , people , people , people , people , people , people , people , people, People , people , people, people , people , people , people , people , people , people , people , people , people , people , people , people , people , people , people, people , people , people , people , people , people , people, people , people, people, People , people , people , people , people , people , people , people , people , people , people, People , people , people , people , people, people , people , people , people , people , people , people , people , people , people , people , people , people, people , people , people , people , people , people , people, people , people , people , people, people , people , People , people , people , people , people , people , people , people , people , people , people, people , people , People , people , people, people , people , people , people , people , people , people , people , people , people , people , people , people , people , people , people , people, people , people , people , people , people , people, people , people , people , people, people , People , people , people , people , people , people , people , people , people , people , people , people, people , people , people, people , people , people , people , people , people , people , People",-0.10289958487160801
+"oc, oc, oc, oc, oc, oc",-0.10654264961840454
+"all , all , all , all , all , all , all , all , all , all, all , all , all , all , all , all , all , all , ALL , all , all , all , all , all , all , all , all , all , all, all , all , all , all , all , all , all , all , ALL , all , all , all , all , all , all , all , all , all , all , all, all , all , all , all , all , all , all , all , ALL , all , all , all , all , all , all , all , all , all , all , all , all , all",-0.10757677406480223
+"dumb , dumb , dumb",-0.10972357368405028
+"kids , kids , kids , kids",-0.11191911358901052
+"disability , disability, disability , disability, disability , disability, disability",-0.11268492202153928
+"imi, imi",-0.11272399973264934
+"knee, knee, knee",-0.11485791099585185
+"etic , etic , etic",-0.11566264664846433
+"violence , abuse , violence , violence , abuse , violence , violence, violence , violence , violence , abuse , violence, violence , violence , abuse , violence",-0.11700399703424105
+"compared , compared , compared",-0.12025714776700624
+"LGBT, LGBT, LGBT, lgbt, transgender , LGBT, LGBT, LGBT, lgbt, transgender , LGBT , LGBT, LGBT, LGBT, lgbt, transgender , LGBT , LGBT, LGBT, transgender , lgbt, LGBT , LGBT",-0.12132024664420961
+"next , next , next",-0.12160243107405222
+"hasn, hasn, hasn, hasn",-0.12268986074604982
+"under , under , under , under",-0.12353452653951535
+"hitler, hitler, hitler, hitler, hitler, hitler, hitler, hitler",-0.12418733515187341
+"control , control , control , control",-0.12438068399569602
+"cause , cause , cause , cause",-0.12821985627545018
+"insert , insert , insert",-0.12980357298874878
+"San , San , San , San",-0.13198957500086786
+"every , every , every , every , every , every",-0.13701210849899326
+"commit , commit , commit , commit",-0.1394443653240387
+"greeks , greeks , greeks",-0.1444377370617076
+"disadvantage, disadvantage, disadvantage, disadvantage",-0.14529681602607525
+"ied, ied, ied",-0.14862142403580947
+"enough , enough , enough , enough",-0.1495640004010446
+"go , go , go , go , go , go , go , go , go , go , go , go , go , go",-0.15628739525891433
+"stop , stop , stop , stop , stop , stop , stop",-0.16564079140698595
+"japanese , japanese , japanese",-0.17235993146641704
+"asian, Asian, Asian, Asian , Asian, Asian , Asian , asian , asian, Asian, Asian, Asian , Asian, Asian , Asian , asian , asian , asian, Asian, Asian, Asian , Asian, Asian , Asian , asian , asian , Asian , Asian, Asian , Asian, asian",-0.1748680120650416
+"bad , bad , bad , bad",-0.17801461869536675
+"must , must , must , must , must , must , must , must , must , must , must",-0.1813579290328562
+"backwards, backwards, backwards, backwards",-0.1836571072190054
+"queer , queer , queer, queer, queer , queer , queer, queer, queer , queer , queer, queer, queer , queer",-0.19569755133112007
+"Jewish , jewish , jewish , Jewish , jewish , jewish , Jewish , jewish , jewish , jewish , jewish",-0.20403155967456274
+"mexican, mexican, mexican, mexican, mexican, mexican, mexican, mexican, mexican, mexican",-0.20441239113461052
+"ded, ded , ded, ded , ded, ded , ded , ded",-0.20499944208571227
+"jew, jew, jew, jew",-0.20939953569177305
+"iranian, iranian, iranian",-0.21958671412600475
+"islam, Islam , Islam, islam, Islam, Islam, Islam , Islam , Islam, islam, Islam , Islam, islam, Islam, Islam, Islam , Islam , Islam, islam, islam, Islam , Islam, islam, Islam, Islam , Islam, Islam , Islam, islam, Islam , islam, islam, islam, Islam",-0.2459861068378172
+"rites, rites, rites",-0.25023593602281835
+"deaf , deaf , deaf , deaf",-0.25065919748499255
+"victims , victims , victims , victims , victims , victims , victims , victims , victims , victims , victims , victims , victims , victims",-0.2527470201421238
+"suicide , suicide, suicide , suicide, suicide , suicide, suicide , suicide",-0.26354533843820604
+"Blacks , blacks , Blacks , blacks , Blacks , blacks , Blacks",-0.2758709227473446
+"trans, trans, trans, trans, trans, trans, trans, trans, trans",-0.2800213712252268
+"shit, fuck, shit, fuck, shit, fuck, fuck",-0.30346046151005013
+"mentally , mentally , mentally , mentally , mentally , mentally , mentally , mentally , mentally , mentally , mentally , mentally , mentally , mentally , mentally",-0.3063221645033991
+"Obama , Obama , Obama , Obama",-0.3244579077718299
+"slave , slave , slave",-0.3278948403768709
+"jews , Jews , Jews , jews , Jews , Jews , Jews , jews , jews , jews , jews , Jews , jews , jews , Jews , Jews , jews , jews , Jews , jews , jews , jews , jews , Jews , Jews , Jews , jews , Jews , Jews , jews , jews , jews , jews , jews , Jews , jews , jews , Jews , Jews , jews , jews , Jews , jews , jews , jews , Jews , Jews , Jews , Jews , Jews , jews , Jews , jews , Jews , Jews , Jews , jews , jews , jews , jews , jews , Jews , jews , jews , Jews , Jews , jews , jews , Jews , jews , jews , jews , Jews , Jews , Jews , Jews , Jews , Jews , Jews , Jews , jews , jews , Jews , jews , jews , Jews , Jews , Jews , jews , Jews , jews , Jews",-0.33764411294447677
+"disabled , disabled , disabled , disabled , disabled , disabled , disabled , disabled , disabled , disabled , disabled , disabled , disabled , disabled , disabled",-0.3426015344384723
+"chinese , Chinese , chinese , Chinese , chinese , chinese , Chinese , chinese , Chinese",-0.3613874288787176
+"Christians , Christians , Christians , Christians , Christians , Christians , Christians",-0.36181378830224276
+"muslim, Muslims, Muslims , Muslims, Muslims, Muslim , muslims , muslims , muslims , muslim , muslim, Muslims , Muslim, Muslims , muslim , muslims , Muslims , Muslims , muslims , Muslims , muslim, Muslims, Muslims , Muslims, muslims , Muslim , Muslims, muslims , muslim, muslims , muslim , Muslims , Muslim, Muslims , muslim , muslims , Muslims , muslims , Muslims , Muslims , Muslims, muslim, muslims , muslim, Muslims, Muslims , Muslims, muslims , Muslim , Muslims, muslims , muslims , muslim , muslim, Muslims , Muslim, Muslims , muslim , muslims , Muslims , Muslims , muslims , Muslims , Muslims, muslim, muslims , muslim, Muslims, Muslims, Muslims , muslims , muslim , muslims , Muslims, muslim, muslims , muslims , Muslims , Muslim , muslim, muslims , muslim , Muslims",-0.386756060782643
+"gay, gay, gay, gay , gay , gay , gay, gay, gay , gay, gay , gay , gay , gay, gay, gay, gay , gay , gay , gay , gay , gay, gay , gay",-0.3999332088242227
+"kill , kill , kill , kill , kill , kill , kill , kill , kill , kill , kill",-0.41474094637396774
+"Islamic , Islamic , Islamic , Islamic",-0.4899592244598807

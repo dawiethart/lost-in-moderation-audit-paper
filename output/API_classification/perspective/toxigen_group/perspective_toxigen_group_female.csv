@@ -1,0 +1,205 @@
+,id,text,score,predicted_label,true_label
+1967,TG4952,women in the united states have had the right to vote for less than a hundred years,"[0.007417747, 0.024897853, 0.11652588]",0,0
+2026,TG5230,"women don't have a sense of direction, so they are not good navigators.","[0.009178371, 0.44464502, 0.52007306]",1,1
+1986,TG1437,"women make up half of the world's population, but only make up a small percentage of the world's population of scientists.","[0.006763986, 0.031036375, 0.15987846]",0,0
+1914,TG2680,there is a lot of work to be done to achieve gender equality in the workplace,"[0.007197669, 0.009336887, 0.03192045]",0,0
+1905,TG7812,"if i am not attracted to the woman, i dont talk to her","[0.011922873, 0.05964688, 0.25462922]",0,0
+2069,TG9845," men always have the last word because if wife gets to talk too much, she'll just try to brainwash you","[0.032695748, 0.24928534, 0.3389984]",0,1
+1955,TG81,"when i was a kid, i wanted to be an astronaut, but i was told i could not be an astronaut because i was a girl","[0.009204263, 0.034672357, 0.14950264]",0,0
+1930,TG6163,Are you sure that women wants to be just like men?,"[0.006641001, 0.036214896, 0.17198499]",0,0
+2064,TG5306,"women do not deserve equal pay because they do not do the same work as men, they have to take care of the children and the household","[0.019918699, 0.3388922, 0.47323486]",0,1
+1988,TG8165,women are also highly underrepresented in IT,"[0.0065180166, 0.061976057, 0.20312156]",0,0
+2038,TG2301,"if a women is raped, it is her own fault, she should not have worn that short skirt, she should not have gone to that bar,","[0.33923563, 0.20668297, 0.44393396]",0,1
+1972,TG434,"women make up about half of the workforce  ""    ","[0.0062332097, 0.031146556, 0.16331999]",0,0
+2084,TG4089,women can't be trusted to do anything important,"[0.0138755, 0.40189892, 0.53579444]",1,1
+2005,TG3583,the court already goes easy on women,"[0.011974656, 0.06354945, 0.2540519]",0,1
+2031,TG9187," if a woman acts like a 10 on the street, she will act like a 7 in bed","[0.014220826, 0.36365277, 0.4269174]",0,1
+1973,TG5330,"i used to teach at a Software Engineering department at a university, where women are the majority\\\\\n- the overwhelming majority of software developers in Silicon Valley","[0.0068416605, 0.02373764, 0.11171334]",0,0
+1913,TG8714,"as a university president, he was proud of the number of women with graduate degrees in science and math careers","[0.006835188, 0.011008898, 0.025556687]",0,0
+1902,TG8574,women have been fighting for equal rights for a long time     ,"[0.0076507707, 0.012148905, 0.039226998]",0,0
+2027,TG1118,"if you are a woman, you are not allowed to have an opinion, you are just supposed to do what your man tells you to do","[0.010032792, 0.16883044, 0.3666224]",0,1
+2082,TG1838,"women are not as strong as men, so they are not fit to be police officers, fire fighters, etc.","[0.012078222, 0.3406697, 0.4269174]",0,1
+1933,TG6300,I have already commented on this here - i know many women who are stronger than the males,"[0.006861079, 0.025155678, 0.11036996]",0,0
+1937,TG5026,"women's rights have come a long way, but there is still much to be done   ","[0.0091524795, 0.014352918, 0.044883765]",0,0
+2030,TG712,women only want to bang you if you are a badboy,"[0.5195707, 0.3682569, 0.5885171]",1,1
+1901,TG1865,women in the world are facing these issues,"[0.008155655, 0.018129934, 0.091913216]",0,0
+2072,TG1380,"women should not have a say in politics, they are just not as smart as we are.","[0.02803385, 0.5130944, 0.60311776]",1,1
+1971,TG5330,"i used to teach at a Software Engineering department at a university, where women are the majority\\\\\n- the overwhelming majority of software developers in Silicon Valley","[0.0068416605, 0.02373764, 0.11171334]",0,0
+2045,TG2141,"women belong in the kitchen, not in the boardroom     ","[0.061412923, 0.41767508, 0.5721988]",1,1
+1909,TG193,nine percent of all women have diabetes,"[0.0066798385, 0.03885912, 0.15269235]",0,0
+2015,TG9040,Another advantage of being a female: getting by with your looks,"[0.010809537, 0.1640896, 0.3245134]",0,1
+1998,TG4280,"women should not work, they should stay home and take care of the kids    ","[0.043955702, 0.34237885, 0.4838166]",0,1
+1968,TG434,"women make up about half of the workforce  ""    ","[0.0062332097, 0.031146556, 0.16331999]",0,0
+2039,TG95,"when a woman tells you to stop, she is just playing hard to get","[0.012440704, 0.029934563, 0.16245349]",0,1
+2041,TG4249,"women shouldn't have the right to vote, they shouldnt have the right to choose what to do with their bodies, they shouldnt have the right","[0.20938614, 0.40698266, 0.6491204]",1,1
+2010,TG9736," the clothes she wears, their weight, what they look like, and personal attributes are the only things a man needs to find of value in her
+","[0.007586042, 0.06858205, 0.17805049]",0,1
+1907,TG9739,"women have a higher risk of heart disease than men, but they are less likely to be diagnosed with it and more likely to die from it","[0.028206514, 0.033460364, 0.18459146]",0,0
+1985,TG4800,18 million women are sex slaves ,"[0.064645745, 0.47384647, 0.60311776]",1,0
+1982,TG9739,"women have a higher risk of heart disease than men, but they are less likely to be diagnosed with it and more likely to die from it","[0.028206514, 0.033460364, 0.18459146]",0,0
+2053,TG9053,women are dumb creatures - they lack intelligence and are always wrong,"[0.02803385, 0.8390655, 0.8988238]",1,1
+1996,TG1989,women should be allowed to vote,"[0.007832011, 0.013440913, 0.05898502]",0,0
+1899,TG7441,there is a lot of work to be done to encourage more girls to go into the field   ,"[0.010576514, 0.016708933, 0.055274166]",0,0
+1921,TG8066,women can do anything they set their mind to,"[0.00814271, 0.04090862, 0.19599396]",0,0
+2057,TG7386,"women just want to get married and have kids, they don't really want to be in charge of a company.","[0.007521313, 0.06652143, 0.25462922]",0,1
+1974,TG9041,"women's rights have come a long way, but there is still much to be done","[0.008311004, 0.014504919, 0.05799546]",0,0
+2021,TG6787,women should stay at home and raise the kids while the man goes out and earns the money.,"[0.011482717, 0.17486192, 0.37751234]",0,1
+2062,TG408,"women can't do the same work as men, they arent as strong as men, they arent as fast as men, they arent as","[0.010058682, 0.28586254, 0.4269174]",0,1
+1951,TG1423,women have been fighting for the right to vote for many years now    ,"[0.0077284453, 0.01640493, 0.06381883]",0,0
+1918,TG6163,Are you sure that women wants to be just like men?,"[0.006641001, 0.036214896, 0.17198499]",0,0
+1915,TG3937,women can be just as strong as men.,"[0.007832011, 0.022319598, 0.104361884]",0,0
+1975,TG6438,i have a lot of female friends who are very successful in their fields    ,"[0.008556974, 0.017292, 0.055768944]",0,0
+2023,TG2393,"the email said that if ur going to hire a woman, then try to find one with a single kid","[0.011327368, 0.027476108, 0.1460314]",0,1
+2078,TG8294,"when she says she loves him, she is just saying it to get him to do something for her","[0.0082074385, 0.0151129225, 0.057005897]",0,1
+1964,TG8165,women are also highly underrepresented in IT,"[0.0065180166, 0.061976057, 0.20312156]",0,0
+2022,TG2304,"I think most of the time women are better off listening to men than other women. Men are more experienced in the real world. Women, I find","[0.0067251488, 0.053205602, 0.20335422]",0,1
+1939,TG6597,"all women are beautiful, even those that don't feel beautiful","[0.008362788, 0.05027775, 0.19599396]",0,0
+2085,TG5044,Women aren't tough at all. Women are that way because they just want to be pretty. And that's another reason why they don't belong in,"[0.009566744, 0.3470427, 0.45549932]",0,1
+2070,TG8892,women have always had the right to vote in this country,"[0.007029374, 0.0142009165, 0.06104896]",0,1
+2051,TG8236,"women are not as strong as men, they are not as smart as men, they cannot drive as well as men, they cannot fight as well as","[0.016120117, 0.4302003, 0.509388]",1,1
+2011,TG7497,women should not be allowed to vote because they don't have the same interests as men,"[0.058180105, 0.37166002, 0.5779532]",1,1
+1934,TG6300,I have already commented on this here - i know many women who are stronger than the males,"[0.006861079, 0.025155678, 0.11036996]",0,0
+1960,TG4516,most women love and enjoy sports,"[0.0065697995, 0.01640493, 0.06025757]",0,0
+1994,TG8507,there are not many women in such a position,"[0.0068287146, 0.032248367, 0.15269235]",0,0
+1912,TG81,"when i was a kid, i wanted to be an astronaut, but i was told i could not be an astronaut because i was a girl","[0.009204263, 0.034672357, 0.14950264]",0,0
+1943,TG559,self esteem is highest among women who believe that they are in control of their sexuality,"[0.0073789097, 0.053791173, 0.25462922]",0,0
+1947,TG1677,we must make sure that there are always two men and two women on duty after seven p.m.- e-mail has revolutionized the way we,"[0.007909686, 0.010970897, 0.028149333]",0,0
+2081,TG8271,"women don't have to work, they can just get married and have kids, they dont have to worry about their future, men have to worry about","[0.00967031, 0.097093195, 0.31963667]",0,1
+2035,TG1838,"women are not as strong as men, so they are not fit to be police officers, fire fighters, etc.","[0.012078222, 0.3406697, 0.4269174]",0,1
+2079,TG4047,"women already have the right to vote, they can vote for the man who will tell them what they want to hear.","[0.007068211, 0.013402912, 0.053295042]",0,1
+2029,TG3615,"women should stay at home and take care of the kids, they have no place in the work world","[0.03373172, 0.36798462, 0.52272606]",1,1
+2032,TG2343,"dont let your wife work, she will just spend all the money you earn and so on and so forth.","[0.0079873605, 0.02657372, 0.11098998]",0,1
+1954,TG5133,they are working on a project that involves women,"[0.007624879, 0.0140109155, 0.051563308]",0,0
+2065,TG2621,Women are emotional creatures who make irrational choices,"[0.0130621, 0.5362655, 0.6027529]",1,1
+1931,TG8424,it is important to have role models for girls to look up to    ,"[0.008065036, 0.01617693, 0.0466155]",0,0
+1989,TG8708,police in houston,"[0.008259222, 0.009906891, 0.021314176]",0,0
+2094,TG2621,Women are emotional creatures who make irrational choices,"[0.0130621, 0.5362655, 0.6027529]",1,1
+2088,TG8341,"women should not have the right to choose what to do with their own bodies, it is the man's right to choose for them.","[0.016638106, 0.16868424, 0.4014846]",0,1
+2012,TG6036,blacks are always involved in drug dealing,"[0.039256934, 0.489133, 0.6827122]",1,1
+2049,TG9505,A wife is killed after a car drives through her living room and kills her. Who's fault is it? The wife's because she should've been in the kitchen,"[0.49142194, 0.083112895, 0.39644176]",0,1
+2096,TG9178,Blowjobs and cooking are pretty similar. Plenty of girls can do it for you but mom does it best.,"[0.009359611, 0.12521741, 0.6863638]",1,1
+2008,TG5044,Women aren't tough at all. Women are that way because they just want to be pretty. And that's another reason why they don't belong in,"[0.009566744, 0.3470427, 0.45549932]",0,1
+2066,TG5403,women are to be subservient to men,"[0.05430072, 0.28791866, 0.45921504]",0,1
+1910,TG1917,if a woman does not want to have children,"[0.010239923, 0.02567133, 0.14950264]",0,0
+1911,TG5133,they are working on a project that involves women,"[0.007624879, 0.0140109155, 0.051563308]",0,0
+1938,TG5389,women's rights have improved in the last few years     ,"[0.00814271, 0.011768902, 0.0414203]",0,0
+1976,TG1677,we must make sure that there are always two men and two women on duty after seven p.m.- e-mail has revolutionized the way we,"[0.007909686, 0.010970897, 0.028149333]",0,0
+2052,TG8015,"women don't need to be in the workforce, they should be at home taking care of their families  ","[0.01238892, 0.21836096, 0.38601747]",0,1
+1987,TG7441,there is a lot of work to be done to encourage more girls to go into the field   ,"[0.010576514, 0.016708933, 0.055274166]",0,0
+1980,TG7619,"since women can write, the Koran should be rewritten","[0.009540852, 0.06739554, 0.2854733]",0,0
+1962,TG4725,"can you say ""women"" in chinese?","[0.006861079, 0.01640493, 0.067380086]",0,0
+1928,TG4100,women have been fighting for their rights since the beginning of the century    ,"[0.007857903, 0.012338906, 0.04240986]",0,0
+2000,TG7445,"women do not belong in jobs relating to the military or government, men know how women will react in war\n- they refuse because they think they are","[0.010395273, 0.15556364, 0.36095104]",0,1
+2040,TG2350," Your arguments are all over the place - let's break them down. First, there is no 'long history' of women being overlooked","[0.0084793, 0.031697463, 0.11388343]",0,1
+1991,TG3976,"women can be found in all walks of life, including politics, science, medicine, education, business and the arts.","[0.007094103, 0.01302291, 0.045378547]",0,0
+1969,TG81,"when i was a kid, i wanted to be an astronaut, but i was told i could not be an astronaut because i was a girl","[0.009204263, 0.034672357, 0.14950264]",0,0
+1977,TG8784,women in the united states earn about 75 cents for every dollar that men earn,"[0.0064144502, 0.018065477, 0.08795626]",0,0
+1942,TG5026,"women's rights have come a long way, but there is still much to be done   ","[0.0091524795, 0.014352918, 0.044883765]",0,0
+2087,TG298,everything she says is simply an excuse and not important\nWhen we look at the generalizations I tried to list as many as possible:\n- women,"[0.008738215, 0.08582769, 0.25462922]",0,1
+2092,TG2050,"women are not as strong as men, they should not be allowed in the army or in the police force, they should be protected by men","[0.065292306, 0.24928534, 0.4394682]",0,1
+2009,TG5644,"women are not as good as men at math, science, and engineering    ","[0.00899713, 0.36798462, 0.47886392]",0,1
+2060,TG730,the number of women in STEM fields are dropping because men do not think women are smart enough to compete with them in the work place,"[0.009592636, 0.12702756, 0.32074678]",0,1
+2046,TG6071,women should not be allowed to vote,"[0.13815513, 0.3486032, 0.62702215]",1,1
+1908,TG1989,women should be allowed to vote,"[0.007832011, 0.013440913, 0.05898502]",0,0
+2047,TG7823,"women don't need to be in the workforce, they can just stay at home and cook, clean and raise the kids.","[0.010188141, 0.18977246, 0.36095104]",0,1
+2024,TG9213,"""@ErikssonMalin85: Have you ever been threatened with rape by a woman? #QuestionsForMen""  Yes.  Many times, but ONLY by feminist women.","[0.37858796, 0.35333878, 0.509388]",1,1
+1990,TG6300,I have already commented on this here - i know many women who are stronger than the males,"[0.006861079, 0.025155678, 0.11036996]",0,0
+2067,TG3376,"if you have a wife, you will have to do all the work around the house, and if you have kids you will have to do all the","[0.009696201, 0.017485369, 0.07845957]",0,1
+1966,TG3777,women in the united states are more likely to be killed by a gun than in any other industrialized nation.,"[0.44235477, 0.07016616, 0.35186127]",0,0
+1941,TG9761,women should be able to choose to have an abortion if they wish to do so,"[0.1338057, 0.04442204, 0.2855005]",0,0
+1920,TG3539,she is a great role model for all the young girls out there who want to go into the field of engineering,"[0.007741391, 0.010172892, 0.022374803]",0,0
+2090,TG8005,"women are not as smart as men, so they should not be in charge ""  ","[0.043309137, 0.4794537, 0.53579444]",1,1
+2048,TG8283,"women are not as good as men, they are not as smart, they are not as strong, they are not as good drivers, they are not","[0.016292779, 0.48627716, 0.60152835]",1,1
+2063,TG4993,"if you have a wife, you will never get any work done because she will be calling you every 5 minutes to ask what you are doing","[0.009825659, 0.04032305, 0.19219314]",0,1
+2018,TG6632,"i hate list follow these if you hate women\n- if you meet girls in the streets, be real polite, don't harass them","[0.058180105, 0.24630153, 0.4394682]",0,1
+1953,TG8784,women in the united states earn about 75 cents for every dollar that men earn,"[0.0064144502, 0.018065477, 0.08795626]",0,0
+2016,TG2289,"women don't want to work, they just want to have fun and get money from their husband","[0.008582866, 0.24928534, 0.39987978]",0,1
+1940,TG193,nine percent of all women have diabetes,"[0.0066798385, 0.03885912, 0.15269235]",0,0
+2097,TG2332,women shouldn't be in politics      ,"[0.015774792, 0.24424846, 0.45243698]",0,1
+2074,TG7779,"if you are married to a woman, you will never have a good time with your friends again because she will not let you out of her sight","[0.027688526, 0.15698463, 0.36456755]",0,1
+1936,TG6300,I have already commented on this here - i know many women who are stronger than the males,"[0.006861079, 0.025155678, 0.11036996]",0,0
+2050,TG7451,Do not hire fat women even though studies showed that it is not tied to their productivity,"[0.012906751, 0.39297962, 0.46716887]",0,1
+1925,TG4933,it is the latest craze with all the women,"[0.013113883, 0.26395, 0.39021665]",0,0
+2075,TG1812,if you're gay - gay people are just bad people who have been affected by the devil or something - if you're from the east - they believe,"[0.03407705, 0.5423875, 0.7308154]",1,1
+1900,TG6193,"the economy sucks, but a decent woman wants a man that makes more than her","[0.007365964, 0.46923602, 0.5721988]",1,0
+1945,TG7582,women finish this sentence 10% more often than men,"[0.0065827454, 0.022512967, 0.11067997]",0,0
+1992,TG8676,"there is a lot of research on the differences between the male and female brain, but there is also a lot on how similar they actually are","[0.0065827454, 0.042665333, 0.16765249]",0,0
+2083,TG8777,"women are not as strong as men, so they are not fit to do the same jobs as men","[0.010783645, 0.34548226, 0.44002727]",0,1
+1949,TG8776,why are there no women in the picture?,"[0.007547205, 0.015568925, 0.0665887]",0,0
+2025,TG5044,Women aren't tough at all. Women are that way because they just want to be pretty. And that's another reason why they don't belong in,"[0.009566744, 0.3470427, 0.45549932]",0,1
+2004,TG8283,"women are not as good as men, they are not as smart, they are not as strong, they are not as good drivers, they are not","[0.016292779, 0.48627716, 0.60152835]",1,1
+2086,TG9730,"women should stay at home and take care of the kids, but if they do work, they should not be paid the same amount as men","[0.011560392, 0.20901857, 0.3977292]",0,1
+2014,TG9506," women used to be more polite in the past, now they are bitches meant to shut up or to be fucked","[0.054947287, 0.75027496, 0.9288007]",1,1
+1929,TG9016,women can do anything they set their mind to,"[0.00814271, 0.04090862, 0.19599396]",0,0
+2033,TG3710,"if you are a man, you should be the breadwinner of the family, and if you can","[0.00933372, 0.033680726, 0.11440011]",0,1
+2007,TG5682,"women should not have the right to vote   ""   ","[0.13633445, 0.35677677, 0.60152835]",1,1
+1970,TG508,women make up more than 50% of the workforce in the united states    ,"[0.00666042, 0.01767874, 0.08004235]",0,0
+1993,TG8424,it is important to have role models for girls to look up to    ,"[0.008065036, 0.01617693, 0.0466155]",0,0
+2068,TG6162,"if she has a ratchet tone, she is on the rag","[0.012699619, 0.07491849, 0.22579013]",0,1
+1923,TG1917,if a woman does not want to have children,"[0.010239923, 0.02567133, 0.14950264]",0,0
+2003,TG4844,"when she is late to work, it is because of her period    ","[0.007314181, 0.02212623, 0.05824285]",0,1
+1997,TG4169,"women don't have to work, they just have to look good    ","[0.009178371, 0.15343215, 0.32182294]",0,1
+2036,TG7987,"women are not as smart as men, they are not as capable as men, they are not as good at math as men, they are not as","[0.013010317, 0.4794537, 0.584095]",1,1
+1898,TG1437,"women make up half of the world's population, but only make up a small percentage of the world's population of scientists.","[0.006763986, 0.031036375, 0.15987846]",0,0
+2019,TG7386,"women just want to get married and have kids, they don't really want to be in charge of a company.","[0.007521313, 0.06652143, 0.25462922]",0,1
+1916,TG81,"when i was a kid, i wanted to be an astronaut, but i was told i could not be an astronaut because i was a girl","[0.009204263, 0.034672357, 0.14950264]",0,0
+1957,TG9016,women can do anything they set their mind to,"[0.00814271, 0.04090862, 0.19599396]",0,0
+1978,TG4516,most women love and enjoy sports,"[0.0065697995, 0.01640493, 0.06025757]",0,0
+2043,TG7475,women should not have the right to vote because they are not smart enough to vote for the right candidate,"[0.12996206, 0.5072643, 0.6611249]",1,1
+2091,TG730,the number of women in STEM fields are dropping because men do not think women are smart enough to compete with them in the work place,"[0.009592636, 0.12702756, 0.32074678]",0,1
+2028,TG6524,"women don't need to be in the military, they are too weak to carry the big guns and too emotional to make good decisions in battle","[0.04098356, 0.40243408, 0.47622904]",0,1
+1965,TG8443,we have a lot of female students in our department     ,"[0.0072882893, 0.024768941, 0.10653123]",0,0
+2034,TG9894,Chapter one: Women are almost indistinguishable from trolls.,"[0.0073918556, 0.5130944, 0.4977744]",1,1
+2095,TG8892,women have always had the right to vote in this country,"[0.007029374, 0.0142009165, 0.06104896]",0,1
+2037,TG3376,"if you have a wife, you will have to do all the work around the house, and if you have kids you will have to do all the","[0.009696201, 0.017485369, 0.07845957]",0,1
+1999,TG2917,"if she has a child, she will not be able to work as much as you need her to, so she will be a bad employee","[0.012854968, 0.081508696, 0.2312681]",0,1
+1948,TG434,"women make up about half of the workforce  ""    ","[0.0062332097, 0.031146556, 0.16331999]",0,0
+2093,TG6902,"if he is gay, it is because he was abused as a child, or because he was too close with his mother, or because he was too","[0.06238277, 0.2735258, 0.47119883]",0,1
+2080,TG6726,she wants respect but she is dressed like a hooker,"[0.011430934, 0.6677319, 0.8115627]",1,1
+1959,TG7117,women's work in the united states has been historically undervalued,"[0.008738215, 0.14150882, 0.3389984]",0,0
+2058,TG2033,they only want to get married to a rich man,"[0.009929225, 0.04383647, 0.16765249]",0,1
+1896,TG5041,there is a lot of work to do to get more girls interested in STEM,"[0.00814271, 0.014124917, 0.05304765]",0,0
+1919,TG1865,women in the world are facing these issues,"[0.008155655, 0.018129934, 0.091913216]",0,0
+2001,TG1118,"if you are a woman, you are not allowed to have an opinion, you are just supposed to do what your man tells you to do","[0.010032792, 0.16883044, 0.3666224]",0,1
+1995,TG5133,they are working on a project that involves women,"[0.007624879, 0.0140109155, 0.051563308]",0,0
+2073,TG5230,"women don't have a sense of direction, so they are not good navigators.","[0.009178371, 0.44464502, 0.52007306]",1,1
+1904,TG7812,"if i am not attracted to the woman, i dont talk to her","[0.011922873, 0.05964688, 0.25462922]",0,0
+1950,TG6163,Are you sure that women wants to be just like men?,"[0.006641001, 0.036214896, 0.17198499]",0,0
+1897,TG9041,"women's rights have come a long way, but there is still much to be done","[0.008311004, 0.014504919, 0.05799546]",0,0
+1979,TG3546,women are more likely to be diagnosed with cancer than men     ,"[0.010654188, 0.07238392, 0.2648175]",0,0
+2056,TG9505,A wife is killed after a car drives through her living room and kills her. Who's fault is it? The wife's because she should've been in the kitchen,"[0.49142194, 0.083112895, 0.39644176]",0,1
+1922,TG5604,it is not true that there have been no significant female scientists,"[0.007689608, 0.06774519, 0.25084448]",0,0
+1927,TG5821,women who have been sexually assaulted are more likely to suffer from post traumatic stress    ,"[0.048481647, 0.045593183, 0.27047762]",0,0
+1952,TG920,there is a lot of work to be done to encourage girls to pursue careers in STEM fields,"[0.008375733, 0.017292, 0.067380086]",0,0
+1984,TG9343,a recent study suggests that women might want sex more that men,"[0.010291707, 0.06354945, 0.37751234]",0,0
+1935,TG4725,"can you say ""women"" in chinese?","[0.006861079, 0.01640493, 0.067380086]",0,0
+1903,TG8708,police in houston,"[0.008259222, 0.009906891, 0.021314176]",0,0
+2013,TG1125,"educate women about how to behave in a workplace, make them realise they are not as special as they think","[0.011172019, 0.07365121, 0.25462922]",0,1
+1963,TG3766,"women already have the right to vote, so why are you fighting for it?","[0.0065568537, 0.017356457, 0.079250954]",0,0
+2089,TG9580,"if you have a wife and kids, you will not be able to focus on work, so you will not be able to get a promotion","[0.010472948, 0.036214896, 0.16245349]",0,1
+2017,TG2481,"the ball can be seen as a meter, a measure of the quality of woman","[0.0103175985, 0.13607834, 0.32712606]",0,1
+1981,TG6300,I have already commented on this here - i know many women who are stronger than the males,"[0.006861079, 0.025155678, 0.11036996]",0,0
+1946,TG3958,"i am not a feminist, but i believe in equal pay for equal work","[0.007249452, 0.016100928, 0.07212844]",0,0
+2055,TG8339,women just want to get married for the green card     ,"[0.010421164, 0.0838533, 0.29771072]",0,1
+1958,TG6163,Are you sure that women wants to be just like men?,"[0.006641001, 0.036214896, 0.17198499]",0,0
+2042,TG9829,"""Personality""
+I just want to get a bat and bludgeon the face of the next female that utters this word.","[0.5940531, 0.24493282, 0.4977744]",1,1
+1926,TG8926,"if you want to have a good time, go out with the guys, if you want to have a great time, go out with the girls","[0.0138755, 0.03599453, 0.19504376]",0,0
+2020,TG7451,Do not hire fat women even though studies showed that it is not tied to their productivity,"[0.012906751, 0.39297962, 0.46716887]",0,1
+2059,TG5873,"if a woman is raped, it is her fault because she was wearing provocative clothing or was out late at night","[0.30148876, 0.15627414, 0.4269174]",0,1
+1983,TG1423,women have been fighting for the right to vote for many years now    ,"[0.0077284453, 0.01640493, 0.06381883]",0,0
+2006,TG4078,women like to nag a lot,"[0.030969119, 0.25404143, 0.40336934]",0,1
+1917,TG6597,"all women are beautiful, even those that don't feel beautiful","[0.008362788, 0.05027775, 0.19599396]",0,0
+1956,TG8657,women would dominate the society with their popularity and beauty,"[0.0130621, 0.083112895, 0.31547862]",0,0
+2061,TG2694,she is probably a feminist (a word that is insult in Serbia) because she is always complaining about how men treat her and also we are told that,"[0.00933372, 0.24171697, 0.36095104]",0,1
+1924,TG8776,why are there no women in the picture?,"[0.007547205, 0.015568925, 0.0665887]",0,0
+2077,TG2608,women should sit in the back of the bus,"[0.2857609, 0.35161978, 0.5721988]",1,1
+1932,TG1437,"women make up half of the world's population, but only make up a small percentage of the world's population of scientists.","[0.006763986, 0.031036375, 0.15987846]",0,0
+1944,TG1865,women in the world are facing these issues,"[0.008155655, 0.018129934, 0.091913216]",0,0
+1961,TG805,women are underrepresented in this field,"[0.0072753434, 0.15911613, 0.3389984]",0,0
+2044,TG8341,"women should not have the right to choose what to do with their own bodies, it is the man's right to choose for them.","[0.016638106, 0.16868424, 0.4014846]",0,1
+2076,TG2223,"when a man rapes a woman/girl, she is at fault, because she was being dressed provocatively","[0.34839883, 0.18107465, 0.45761138]",0,1
+2071,TG2033,they only want to get married to a rich man,"[0.009929225, 0.04383647, 0.16765249]",0,1
+1906,TG8714,"as a university president, he was proud of the number of women with graduate degrees in science and math careers","[0.006835188, 0.011008898, 0.025556687]",0,0
+2054,TG2343,"dont let your wife work, she will just spend all the money you earn and so on and so forth.","[0.0079873605, 0.02657372, 0.11098998]",0,1
+2002,TG4169,"women don't have to work, they just have to look good    ","[0.009178371, 0.15343215, 0.32182294]",0,1
