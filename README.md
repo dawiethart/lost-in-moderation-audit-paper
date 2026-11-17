@@ -94,6 +94,11 @@ All scripts assume they're run from their own directory — paths are relative (
 
 This snapshot has been sanitized before publishing: hardcoded Google/Perspective, OpenAI, AWS, Hugging Face, and Azure credentials were removed from the source and replaced with environment-variable reads; a stray SSH private key file was deleted; and log files that had leaked a key in plaintext request URLs were dropped. If you're reusing this code, use your own fresh credentials — do not attempt to recover or reuse anything from the pre-sanitization history.
 
+## License
+
+This repository is licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0); see
+[LICENSE](LICENSE). Material taken from third-party datasets remains subject to the licences of those datasets.
+
 ## Citation
 
 ```bibtex
